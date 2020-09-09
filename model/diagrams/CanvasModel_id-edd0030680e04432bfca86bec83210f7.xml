@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Business Process Map View"
+    name="CLASSEMENT DETAILLE DES PROCESSUS EXISTANTS"
     id="id-edd0030680e04432bfca86bec83210f7">
   <children
       xsi:type="canvas:CanvasModelSticky"

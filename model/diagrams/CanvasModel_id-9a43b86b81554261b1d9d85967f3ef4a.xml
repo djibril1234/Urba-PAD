@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Functionnal Map View"
+    name="ARCHITECTURE FONCTIONNELLE DETAILLEE EXISTANTE DU PAD"
     id="id-9a43b86b81554261b1d9d85967f3ef4a">
   <children
       xsi:type="canvas:CanvasModelSticky"
