@@ -87,7 +87,7 @@
         id="id-403ae3bc53364b93a142b2dc4a281f22"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Pilotage budgétaire">
       <bounds
@@ -101,7 +101,7 @@
         id="id-64bf64c5a5f243cfb1090e4269872f1e"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Suivi de l’activité">
       <bounds
@@ -166,9 +166,9 @@
         xsi:type="canvas:CanvasModelBlock"
         id="id-effd3d86ea3a4b1983cea9cf8903c933"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
+        fontColor="#ff0000"
         textAlignment="1"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Statistiques portuaires et tableaux de bord">
       <bounds
@@ -235,7 +235,7 @@
         id="id-bdb6a83fd2d7406aa710dc689abb027e"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion du trafic des navires&#xD;&#xA;">
       <bounds
@@ -249,7 +249,7 @@
         id="id-e1706807a5774fe498391b29bf1305f9"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion du trafic des marchandises&#xD;&#xA;&#xD;&#xA;">
       <bounds
@@ -276,7 +276,7 @@
         id="id-c334855b98024ea6a8330058abcc2862"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gouvernance du SI&#xD;&#xA;">
       <bounds
@@ -290,7 +290,7 @@
         id="id-32a707aadc134e01aee9a96137409d7b"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Sécurité  SI&#xD;&#xA;">
       <bounds
@@ -304,7 +304,7 @@
         id="id-0b107a4def1249a4b0edbd870db01598"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Production,&#xD;&#xA;exploitatiton,&#xD;&#xA;supervision SI&#xD;&#xA;">
       <bounds
@@ -331,7 +331,7 @@
         id="id-f61ef914b50f4f0197f548003353443b"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Internet, intranet">
       <bounds
@@ -345,7 +345,7 @@
         id="id-37f0282eb8f741329439418c238eabcf"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Papier, telephone, etc..">
       <bounds
@@ -372,7 +372,7 @@
         id="id-e6ea4895ae6841949355b17d3386d1e6"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des traces">
       <bounds
@@ -464,7 +464,7 @@
         id="id-55990bd9f7424f39a8cca963f567ff8f"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des domaines portuaires">
       <bounds
@@ -478,7 +478,7 @@
         id="id-455df1043585437dabd9dec8e93947e0"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des terre-pleins et hangars&#xD;&#xA;&#xD;&#xA;">
       <bounds
@@ -492,7 +492,7 @@
         id="id-bc2e444d427746f29b7e8875ba8bc9e6"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des domaines&#xD;&#xA;">
       <bounds
@@ -506,7 +506,7 @@
         id="id-c62be0397e9240519978fe3b75017515"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des postes à quai">
       <bounds
@@ -520,7 +520,7 @@
         id="id-17e1f8de876e49efa8cf70fc32165683"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des parking">
       <bounds
@@ -534,7 +534,7 @@
         id="id-2e48e5bcbceb49e2afefba00f4f31991"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des concessions">
       <bounds
@@ -561,7 +561,7 @@
         id="id-6a1f1c2fff21414f94384b019fc8ea82"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Facturation">
       <bounds
@@ -575,7 +575,7 @@
         id="id-e65c2fa3cdb74361b2105c69e304457b"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Suivi dossier escale">
       <bounds
@@ -602,7 +602,7 @@
         id="id-dc708f5e07d84b3b91f40aa970bb253f"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Fourniture d’eau et d’électricité">
       <bounds
@@ -616,7 +616,7 @@
         id="id-b3d70ed6a8734651b4c875ec52fd6796"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Vente de titres d’accès">
       <bounds
@@ -630,7 +630,7 @@
         id="id-027a6f8261794eeab8f65fb155fb82e3"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Location de matériels">
       <bounds
@@ -656,8 +656,8 @@
         xsi:type="canvas:CanvasModelBlock"
         id="id-5503180c75b542109b26ebe9c839182d"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffb3b3"
+        fontColor="#ff0000"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des agréments">
       <bounds
@@ -671,7 +671,7 @@
         id="id-b068bedd394144499bee019a3f9b587e"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des autorisations&#xD;&#xA;&#xD;&#xA;">
       <bounds
@@ -685,7 +685,7 @@
         id="id-8a37220a69694cd58b39ec0a9963dc22"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des cautions&#xD;&#xA;">
       <bounds
@@ -699,7 +699,7 @@
         id="id-c8a1121820f44e6ea59e3b05833bee63"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des contrats">
       <bounds
@@ -713,7 +713,7 @@
         id="id-23e8f33bf0134cb289ac2df892b5bd6e"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des réclamations/contestations ">
       <bounds
@@ -740,7 +740,7 @@
         id="id-32dbc113cb51424cbc7a74c2a023030e"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Comptabilité Générale&#xD;&#xA;">
       <bounds
@@ -754,7 +754,7 @@
         id="id-f46b72576978439f93ffedf63dfaf25c"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Comptabilité Fournisseur">
       <bounds
@@ -768,7 +768,7 @@
         id="id-454931f6e58d47eab62821fe9578d5fe"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Comptabilité Clients">
       <bounds
@@ -782,7 +782,7 @@
         id="id-a908a9824d4f4eceaa63fbf56d87f2b5"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Comptabilité Analytique">
       <bounds
@@ -796,7 +796,7 @@
         id="id-8e566ad304c1470c8c726cf2a2bf0a96"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Contrôle budgétaire&#xD;&#xA;">
       <bounds
@@ -810,7 +810,7 @@
         id="id-e7dc4db684fc4400beaac0421793f6f0"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion de la trésorerie&#xD;&#xA;">
       <bounds
@@ -824,7 +824,7 @@
         id="id-b1e7dfd5588347f2a8e28432da1527d6"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Recouvrement&#xD;&#xA;">
       <bounds
@@ -838,7 +838,7 @@
         id="id-51dcdf24403145b485a3e71a41ed18ab"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Facturation">
       <bounds
@@ -865,7 +865,7 @@
         id="id-1ddc750996b241a4b68b77afa1367608"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des achats&#xD;&#xA;">
       <bounds
@@ -879,7 +879,7 @@
         id="id-72a19799c1e142c8a0482def02fa8fd1"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des stocks">
       <bounds
@@ -906,7 +906,7 @@
         id="id-b970e6f6829a475796d638fd237ea09b"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Logistique&#xD;&#xA;">
       <bounds
@@ -920,7 +920,7 @@
         id="id-27f91585817e44e9ae6c867d7b6ad832"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des biens">
       <bounds
@@ -934,7 +934,7 @@
         id="id-280432bc264644cb8a3eedfe3087181e"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des évènements">
       <bounds
@@ -961,7 +961,7 @@
         id="id-967e5d53afd848aa9bc689ac66d8cd78"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des temps">
       <bounds
@@ -975,7 +975,7 @@
         id="id-3853146ed4f64c26ae9a4973f8445aa6"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion de la paie">
       <bounds
@@ -989,7 +989,7 @@
         id="id-79b03cd27f27449abe3190a047274642"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des talents">
       <bounds
@@ -1003,7 +1003,7 @@
         id="id-c96dd163525d4e90a0d4042289190d78"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion sociale, etc..">
       <bounds
@@ -1030,7 +1030,7 @@
         id="id-74ef7968f0d14a12a58067ebca134640"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Communication interne">
       <bounds
@@ -1057,7 +1057,7 @@
         id="id-f9e3203e35994099b87afbc4cef55d3f"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Communication externe">
       <bounds
@@ -1084,7 +1084,7 @@
         id="id-1707f6f0cad24f29952c73ce694abb40"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Authentication&#xD;&#xA;Habitations">
       <bounds
@@ -1111,7 +1111,7 @@
         id="id-f6331b7c413c4f1da959a64eafe6d0a9"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Numerisation">
       <bounds
@@ -1125,7 +1125,7 @@
         id="id-ea0de10f2d4a462dace1aadfd898a411"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Stockage">
       <bounds
@@ -1152,7 +1152,7 @@
         id="id-827ebe50684c4321824822ef3cb853b5"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des templates">
       <bounds
@@ -1166,7 +1166,7 @@
         id="id-36a78fe0499e4d939d9c27f8aaa29d61"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des impressions">
       <bounds
@@ -1193,7 +1193,7 @@
         id="id-a3db12971ebc4ee39e9994fab27b616f"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Gestion des locaux d’archivage">
       <bounds
@@ -1207,7 +1207,7 @@
         id="id-4299345311af4a129574ccbdf1857fdf"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ff0000"
-        fillColor="#ffb3b3"
+        fillColor="#6f0000"
         borderColor="#000000"
         content="Indexiation des documents">
       <bounds
