@@ -1,34 +1,9 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Functionnal Map View"
     id="id-9a43b86b81554261b1d9d85967f3ef4a">
-  <children
-      xsi:type="canvas:CanvasModelSticky"
-      id="id-f5fa9617b40642099b76d79c4a4fb425"
-      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#c6d8fa"
-      content="ECHANGES"
-      borderColor="#C0C0C0">
-    <bounds
-        x="-312"
-        y="156"
-        width="289"
-        height="469"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelSticky"
-      id="id-168f8ef6b00b4256b4b2fe34e30b0bcf"
-      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#c4c4f8"
-      content="MECANISMES GENERAUX"
-      borderColor="#C0C0C0">
-    <bounds
-        x="-312"
-        y="684"
-        width="289"
-        height="469"/>
-  </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-5b2e04d481084534b25b23f8c6cf68f5"
@@ -53,7 +28,7 @@
         x="1464"
         y="162"
         width="301"
-        height="1135"/>
+        height="1051"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -64,10 +39,10 @@
       content="PILOTAGE"
       borderColor="#C0C0C0">
     <bounds
-        x="72"
+        x="84"
         y="156"
-        width="1357"
-        height="397"/>
+        width="1321"
+        height="277"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -79,9 +54,9 @@
       borderColor="#C0C0C0">
     <bounds
         x="72"
-        y="1092"
-        width="1369"
-        height="205"/>
+        y="972"
+        width="1333"
+        height="241"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -94,7 +69,7 @@
         x="108"
         y="216"
         width="390"
-        height="60"/>
+        height="36"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -105,9 +80,9 @@
       content="Suivi des performances">
     <bounds
         x="105"
-        y="312"
+        y="276"
         width="396"
-        height="144"/>
+        height="132"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-403ae3bc53364b93a142b2dc4a281f22"
@@ -118,7 +93,7 @@
         content="Pilotage budgétaire">
       <bounds
           x="48"
-          y="48"
+          y="36"
           width="300"
           height="36"/>
     </children>
@@ -132,7 +107,7 @@
         content="Suivi de l’activité">
       <bounds
           x="48"
-          y="96"
+          y="84"
           width="300"
           height="36"/>
     </children>
@@ -148,7 +123,7 @@
         x="552"
         y="216"
         width="372"
-        height="60"/>
+        height="36"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -158,8 +133,8 @@
       borderColor="#000000"
       content="Audit Interne">
     <bounds
-        x="552"
-        y="318"
+        x="550"
+        y="273"
         width="384"
         height="138"/>
   </children>
@@ -174,7 +149,7 @@
         x="984"
         y="216"
         width="396"
-        height="60"/>
+        height="36"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -185,20 +160,37 @@
       content="Statistiques">
     <bounds
         x="984"
-        y="324"
+        y="276"
         width="396"
         height="132"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-effd3d86ea3a4b1983cea9cf8903c933"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ff0000"
         textAlignment="1"
+        fillColor="#ffb3b3"
         borderColor="#000000"
         content="Statistiques portuaires et tableaux de bord">
       <bounds
-          x="60"
+          x="48"
           y="48"
-          width="252"
-          height="48"/>
+          width="276"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-2cede397e5014e3aac137cb45d069fe8"
+        fillColor="#ffff80"
+        alpha="155">
+      <bounds
+          x="48"
+          y="38"
+          width="312"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-9f0f71fc4a3d45e1932f06f37e36640d.xml#id-9f0f71fc4a3d45e1932f06f37e36640d"/>
     </children>
   </children>
   <children
@@ -210,9 +202,100 @@
       content="OPERATIONNEL"
       borderColor="#C0C0C0">
     <bounds
-        x="72"
-        y="576"
-        width="1357"
-        height="481"/>
+        x="78"
+        y="444"
+        width="1327"
+        height="493"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-5506a0c901994a03ac1e90d70ede4b9b"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#d5ff95"
+      content="ECHANGES"
+      borderColor="#C0C0C0">
+    <bounds
+        x="-288"
+        y="156"
+        width="337"
+        height="589"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-ed3a66f0af494f3caeda6b114aea5bc6"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#eec8fb"
+      content="MECANISMES GENERAUX"
+      borderColor="#C0C0C0">
+    <bounds
+        x="-288"
+        y="780"
+        width="337"
+        height="433"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-08e9c55d0df24948bb91fa63c60031d2"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#00eaea"
+      borderColor="#000000"
+      content="Gestion de la capitainerie et des opérations portuaires">
+    <bounds
+        x="146"
+        y="526"
+        width="334"
+        height="200"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-b823e444e9ad405d9eb9786299b778bb"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#cc99ff"
+      borderColor="#000000"
+      content="Gestion SI">
+    <bounds
+        x="120"
+        y="993"
+        width="334"
+        height="200"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-7be33db9b678449796a65c65f088875f"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffffa2"
+      borderColor="#000000"
+      content="Gestion des canaux&#xD;&#xA;d’échanges">
+    <bounds
+        x="-255"
+        y="216"
+        width="256"
+        height="200"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-5b815b38795348ca981bb6ea60f843b4"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffaad5"
+      borderColor="#000000"
+      content="Pistes d’audit">
+    <bounds
+        x="-255"
+        y="840"
+        width="256"
+        height="72"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-f302317b05fe47a1b5f22176f36c73ef"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffb895"
+      borderColor="#000000"
+      content="Nomenclatures">
+    <bounds
+        x="1487"
+        y="216"
+        width="256"
+        height="96"/>
   </children>
 </canvas:CanvasModel>
