@@ -8,7 +8,7 @@
       id="id-5b2e04d481084534b25b23f8c6cf68f5"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffffff"
-      content="ARCHITECTURE FONCTIONNELLE EXISTANT"
+      content="ARCHITECTURE FONCTIONNELLE EXISTANTE"
       borderColor="#C0C0C0">
     <bounds
         x="504"
@@ -166,7 +166,7 @@
         xsi:type="canvas:CanvasModelBlock"
         id="id-effd3d86ea3a4b1983cea9cf8903c933"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#ff0000"
+        fontColor="#910000"
         textAlignment="1"
         fillColor="#ffb3b3"
         borderColor="#000000"
