@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="ARCHITECTURE FONCTIONNELLE DETAILLEE EXISTANTE DU PAD"
+    name="Functionnal Map View"
     id="id-9a43b86b81554261b1d9d85967f3ef4a">
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -11,10 +11,10 @@
       content="ARCHITECTURE FONCTIONNELLE EXISTANTE"
       borderColor="#C0C0C0">
     <bounds
-        x="504"
-        y="60"
-        width="733"
-        height="61"/>
+        x="408"
+        y="48"
+        width="719"
+        height="73"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -24,10 +24,10 @@
       content="REFERENCE"
       borderColor="#C0C0C0">
     <bounds
-        x="1464"
-        y="162"
-        width="301"
-        height="931"/>
+        x="1392"
+        y="156"
+        width="229"
+        height="1105"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -38,9 +38,9 @@
       content="PILOTAGE"
       borderColor="#C0C0C0">
     <bounds
-        x="84"
+        x="78"
         y="156"
-        width="1321"
+        width="1291"
         height="277"/>
   </children>
   <children
@@ -52,9 +52,9 @@
       content="SUPPORT"
       borderColor="#C0C0C0">
     <bounds
-        x="71"
-        y="1014"
-        width="1333"
+        x="77"
+        y="971"
+        width="1293"
         height="289"/>
   </children>
   <children
@@ -67,7 +67,7 @@
     <bounds
         x="108"
         y="216"
-        width="390"
+        width="348"
         height="36"/>
   </children>
   <children
@@ -80,7 +80,7 @@
     <bounds
         x="105"
         y="276"
-        width="396"
+        width="350"
         height="132"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -91,9 +91,9 @@
         borderColor="#000000"
         content="Pilotage budgétaire">
       <bounds
-          x="48"
+          x="24"
           y="36"
-          width="300"
+          width="288"
           height="36"/>
     </children>
     <children
@@ -105,9 +105,9 @@
         borderColor="#000000"
         content="Suivi de l’activité">
       <bounds
-          x="48"
+          x="24"
           y="84"
-          width="300"
+          width="288"
           height="36"/>
     </children>
   </children>
@@ -119,9 +119,9 @@
       borderColor="#000000"
       content="Management des risques">
     <bounds
-        x="552"
+        x="516"
         y="216"
-        width="372"
+        width="396"
         height="36"/>
   </children>
   <children
@@ -132,10 +132,10 @@
       borderColor="#000000"
       content="Audit Interne">
     <bounds
-        x="550"
-        y="273"
-        width="384"
-        height="138"/>
+        x="516"
+        y="276"
+        width="396"
+        height="132"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -145,9 +145,9 @@
       borderColor="#000000"
       content="Stratégie et prospection">
     <bounds
-        x="984"
+        x="996"
         y="216"
-        width="396"
+        width="342"
         height="36"/>
   </children>
   <children
@@ -158,9 +158,9 @@
       borderColor="#000000"
       content="Statistiques">
     <bounds
-        x="984"
+        x="996"
         y="276"
-        width="396"
+        width="342"
         height="132"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -172,9 +172,9 @@
         borderColor="#000000"
         content="Statistiques portuaires et tableaux de bord">
       <bounds
-          x="48"
+          x="24"
           y="48"
-          width="276"
+          width="300"
           height="36"/>
     </children>
   </children>
@@ -189,8 +189,8 @@
     <bounds
         x="78"
         y="444"
-        width="1327"
-        height="529"/>
+        width="1291"
+        height="517"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -200,10 +200,10 @@
       content="ECHANGES"
       borderColor="#C0C0C0">
     <bounds
-        x="-288"
+        x="-240"
         y="156"
-        width="337"
-        height="517"/>
+        width="301"
+        height="467"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -213,10 +213,10 @@
       content="MECANISMES GENERAUX"
       borderColor="#C0C0C0">
     <bounds
-        x="-288"
-        y="684"
-        width="337"
-        height="661"/>
+        x="-240"
+        y="641"
+        width="301"
+        height="619"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -226,9 +226,9 @@
       borderColor="#000000"
       content="Gestion de la capitainerie et des opérations portuaires">
     <bounds
-        x="144"
-        y="480"
-        width="431"
+        x="105"
+        y="456"
+        width="472"
         height="161"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -241,7 +241,7 @@
       <bounds
           x="60"
           y="60"
-          width="289"
+          width="349"
           height="37"/>
     </children>
     <children
@@ -255,7 +255,7 @@
       <bounds
           x="60"
           y="108"
-          width="289"
+          width="349"
           height="36"/>
     </children>
   </children>
@@ -267,8 +267,8 @@
       borderColor="#000000"
       content="Gestion SI">
     <bounds
-        x="136"
-        y="1067"
+        x="87"
+        y="1013"
         width="334"
         height="229"/>
     <children
@@ -322,10 +322,10 @@
       borderColor="#000000"
       content="Gestion des canaux&#xD;&#xA;d’échanges">
     <bounds
-        x="-255"
+        x="-219"
         y="216"
         width="256"
-        height="181"/>
+        height="169"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-f61ef914b50f4f0197f548003353443b"
@@ -336,7 +336,7 @@
         content="Internet, intranet">
       <bounds
           x="24"
-          y="72"
+          y="60"
           width="217"
           height="37"/>
     </children>
@@ -350,7 +350,7 @@
         content="Papier, telephone, etc..">
       <bounds
           x="24"
-          y="132"
+          y="108"
           width="217"
           height="37"/>
     </children>
@@ -363,8 +363,8 @@
       borderColor="#000000"
       content="Pistes d’audit">
     <bounds
-        x="-255"
-        y="750"
+        x="-219"
+        y="682"
         width="256"
         height="72"/>
     <children
@@ -390,9 +390,9 @@
       borderColor="#000000"
       content="Nomenclatures">
     <bounds
-        x="1487"
-        y="216"
-        width="256"
+        x="1415"
+        y="228"
+        width="170"
         height="96"/>
   </children>
   <children
@@ -403,9 +403,9 @@
       borderColor="#000000"
       content="Catalogues">
     <bounds
-        x="1487"
-        y="372"
-        width="256"
+        x="1415"
+        y="360"
+        width="170"
         height="96"/>
   </children>
   <children
@@ -414,11 +414,11 @@
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb895"
       borderColor="#000000"
-      content="Biens&#xD;&#xA;Matériels">
+      content="Biens - Matériels">
     <bounds
-        x="1488"
-        y="526"
-        width="256"
+        x="1404"
+        y="904"
+        width="170"
         height="96"/>
   </children>
   <children
@@ -429,9 +429,9 @@
       borderColor="#000000"
       content="Tiers">
     <bounds
-        x="1488"
-        y="708"
-        width="256"
+        x="1404"
+        y="1031"
+        width="170"
         height="96"/>
   </children>
   <children
@@ -442,9 +442,9 @@
       borderColor="#000000"
       content="Structures">
     <bounds
-        x="1488"
-        y="924"
-        width="256"
+        x="1404"
+        y="1152"
+        width="170"
         height="96"/>
   </children>
   <children
@@ -455,10 +455,10 @@
       borderColor="#000000"
       content="Gestion des infrastructures portuaires&#xD;&#xA;">
     <bounds
-        x="144"
-        y="659"
-        width="431"
-        height="253"/>
+        x="105"
+        y="648"
+        width="472"
+        height="301"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-55990bd9f7424f39a8cca963f567ff8f"
@@ -470,8 +470,8 @@
       <bounds
           x="60"
           y="36"
-          width="289"
-          height="25"/>
+          width="349"
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -483,9 +483,9 @@
         content="Gestion des terre-pleins et hangars&#xD;&#xA;&#xD;&#xA;">
       <bounds
           x="60"
-          y="72"
-          width="289"
-          height="25"/>
+          y="84"
+          width="349"
+          height="36"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -497,8 +497,8 @@
         content="Gestion des domaines&#xD;&#xA;">
       <bounds
           x="60"
-          y="108"
-          width="289"
+          y="131"
+          width="349"
           height="25"/>
     </children>
     <children
@@ -511,8 +511,8 @@
         content="Gestion des postes à quai">
       <bounds
           x="60"
-          y="144"
-          width="289"
+          y="167"
+          width="349"
           height="25"/>
     </children>
     <children
@@ -525,9 +525,9 @@
         content="Gestion des parking">
       <bounds
           x="60"
-          y="180"
-          width="289"
-          height="25"/>
+          y="203"
+          width="349"
+          height="38"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -539,9 +539,9 @@
         content="Gestion des concessions">
       <bounds
           x="60"
-          y="216"
-          width="289"
-          height="25"/>
+          y="251"
+          width="349"
+          height="38"/>
     </children>
   </children>
   <children
@@ -552,10 +552,10 @@
       borderColor="#000000"
       content="Gestion commerciale">
     <bounds
-        x="792"
-        y="480"
-        width="431"
-        height="100"/>
+        x="912"
+        y="456"
+        width="385"
+        height="109"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-6a1f1c2fff21414f94384b019fc8ea82"
@@ -565,9 +565,9 @@
         borderColor="#000000"
         content="Facturation">
       <bounds
-          x="72"
+          x="24"
           y="36"
-          width="289"
+          width="337"
           height="25"/>
     </children>
     <children
@@ -579,9 +579,9 @@
         borderColor="#000000"
         content="Suivi dossier escale">
       <bounds
-          x="72"
-          y="60"
-          width="289"
+          x="24"
+          y="72"
+          width="337"
           height="25"/>
     </children>
   </children>
@@ -593,10 +593,10 @@
       borderColor="#000000"
       content="Gestion des services annexes">
     <bounds
-        x="792"
-        y="588"
-        width="431"
-        height="121"/>
+        x="912"
+        y="576"
+        width="385"
+        height="145"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-dc708f5e07d84b3b91f40aa970bb253f"
@@ -606,9 +606,9 @@
         borderColor="#000000"
         content="Fourniture d’eau et d’électricité">
       <bounds
-          x="72"
+          x="24"
           y="36"
-          width="289"
+          width="337"
           height="25"/>
     </children>
     <children
@@ -620,9 +620,9 @@
         borderColor="#000000"
         content="Vente de titres d’accès">
       <bounds
-          x="72"
-          y="60"
-          width="289"
+          x="24"
+          y="72"
+          width="337"
           height="25"/>
     </children>
     <children
@@ -634,9 +634,9 @@
         borderColor="#000000"
         content="Location de matériels">
       <bounds
-          x="72"
-          y="84"
-          width="289"
+          x="24"
+          y="108"
+          width="337"
           height="25"/>
     </children>
   </children>
@@ -648,9 +648,9 @@
       borderColor="#000000"
       content="Gestion de la clientèle">
     <bounds
-        x="792"
-        y="720"
-        width="431"
+        x="912"
+        y="732"
+        width="385"
         height="217"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -661,9 +661,9 @@
         borderColor="#000000"
         content="Gestion des agréments">
       <bounds
-          x="60"
+          x="24"
           y="36"
-          width="289"
+          width="325"
           height="25"/>
     </children>
     <children
@@ -675,9 +675,9 @@
         borderColor="#000000"
         content="Gestion des autorisations&#xD;&#xA;&#xD;&#xA;">
       <bounds
-          x="60"
+          x="24"
           y="72"
-          width="289"
+          width="325"
           height="25"/>
     </children>
     <children
@@ -689,9 +689,9 @@
         borderColor="#000000"
         content="Gestion des cautions&#xD;&#xA;">
       <bounds
-          x="60"
+          x="24"
           y="108"
-          width="289"
+          width="325"
           height="25"/>
     </children>
     <children
@@ -703,9 +703,9 @@
         borderColor="#000000"
         content="Gestion des contrats">
       <bounds
-          x="60"
+          x="24"
           y="144"
-          width="289"
+          width="325"
           height="25"/>
     </children>
     <children
@@ -717,9 +717,9 @@
         borderColor="#000000"
         content="Gestion des réclamations/contestations ">
       <bounds
-          x="60"
+          x="24"
           y="180"
-          width="289"
+          width="325"
           height="25"/>
     </children>
   </children>
@@ -731,8 +731,8 @@
       borderColor="#000000"
       content="Gestion financière">
     <bounds
-        x="521"
-        y="1068"
+        x="455"
+        y="1014"
         width="433"
         height="228"/>
     <children
@@ -856,8 +856,8 @@
       borderColor="#000000"
       content="Gestion des achats">
     <bounds
-        x="972"
-        y="1068"
+        x="911"
+        y="1014"
         width="205"
         height="97"/>
     <children
@@ -884,7 +884,7 @@
         content="Gestion des stocks">
       <bounds
           x="24"
-          y="60"
+          y="72"
           width="169"
           height="25"/>
     </children>
@@ -897,8 +897,8 @@
       borderColor="#000000"
       content="Moyens généraux">
     <bounds
-        x="972"
-        y="1170"
+        x="911"
+        y="1116"
         width="205"
         height="126"/>
     <children
@@ -911,7 +911,7 @@
         content="Logistique&#xD;&#xA;">
       <bounds
           x="24"
-          y="36"
+          y="24"
           width="169"
           height="25"/>
     </children>
@@ -939,7 +939,7 @@
         content="Gestion des évènements">
       <bounds
           x="24"
-          y="84"
+          y="96"
           width="169"
           height="25"/>
     </children>
@@ -952,8 +952,8 @@
       borderColor="#000000"
       content="Gestion des&#xD;&#xA;Ressources&#xD;&#xA;Humaines">
     <bounds
-        x="1188"
-        y="1067"
+        x="1139"
+        y="1013"
         width="205"
         height="229"/>
     <children
@@ -1021,8 +1021,8 @@
       borderColor="#000000"
       content="Échanges internes">
     <bounds
-        x="-255"
-        y="407"
+        x="-219"
+        y="395"
         width="256"
         height="98"/>
     <children
@@ -1048,10 +1048,10 @@
       borderColor="#000000"
       content="Échanges internes">
     <bounds
-        x="-255"
-        y="526"
+        x="-219"
+        y="503"
         width="256"
-        height="115"/>
+        height="99"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-f9e3203e35994099b87afbc4cef55d3f"
@@ -1062,7 +1062,7 @@
         content="Communication externe">
       <bounds
           x="24"
-          y="60"
+          y="48"
           width="217"
           height="37"/>
     </children>
@@ -1075,10 +1075,10 @@
       borderColor="#000000"
       content="Controle des accès">
     <bounds
-        x="-255"
-        y="853"
+        x="-219"
+        y="778"
         width="256"
-        height="84"/>
+        height="96"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="id-1707f6f0cad24f29952c73ce694abb40"
@@ -1091,7 +1091,7 @@
           x="24"
           y="36"
           width="181"
-          height="37"/>
+          height="49"/>
     </children>
   </children>
   <children
@@ -1102,8 +1102,8 @@
       borderColor="#000000"
       content="GED">
     <bounds
-        x="-255"
-        y="972"
+        x="-219"
+        y="891"
         width="256"
         height="109"/>
     <children
@@ -1143,8 +1143,8 @@
       borderColor="#000000"
       content="Editique">
     <bounds
-        x="-255"
-        y="1104"
+        x="-219"
+        y="1018"
         width="256"
         height="109"/>
     <children
@@ -1184,8 +1184,8 @@
       borderColor="#000000"
       content="Archivage">
     <bounds
-        x="-255"
-        y="1224"
+        x="-219"
+        y="1137"
         width="256"
         height="109"/>
     <children

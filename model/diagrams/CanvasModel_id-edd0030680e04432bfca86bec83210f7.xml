@@ -2,18 +2,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="CLASSEMENT DETAILLE DES PROCESSUS EXISTANTS"
+    name="Business Process Map View"
     id="id-edd0030680e04432bfca86bec83210f7">
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-8d3d73beccea42e08beaa6ded10bd694"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffffff"
-      content="MAP DES PROCESSUS EXISTANTS"
+      content="CLASSEMENT DETAILLE DES PROCESSUS EXISTANTS"
       borderColor="#C0C0C0">
     <bounds
-        x="708"
-        y="12"
+        x="685"
+        y="36"
         width="733"
         height="73"/>
   </children>
@@ -204,9 +204,9 @@
       id="id-fdeff6adc7824d1d958a30039c2c2235"
       fillColor="#ffffbf">
     <bounds
-        x="720"
+        x="714"
         y="267"
-        width="240"
+        width="246"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
