@@ -21,7 +21,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-633f4fa2b1e24d93be962c4ca54597ee"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#1eb6ff"
+      fillColor="#f4f4f4"
       content="PROCESSUS DE MANAGEMENT "
       borderColor="#C0C0C0">
     <bounds
@@ -34,7 +34,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-9a164bc1437244248bb24b3f8a1d349c"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#80bfbf"
+      fillColor="#f4f4f4"
       content="PROCESSUS OPERATIONNEL "
       borderColor="#C0C0C0">
     <bounds
@@ -47,7 +47,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-0af042ab446d4630a5be56959481985e"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#ffff9f"
+      fillColor="#0000ff"
       content="PROCESSUS SUPPORT"
       borderColor="#C0C0C0">
     <bounds
@@ -60,7 +60,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-91132e3ee8634deeb5b0854bd2c2e7a5"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#80bfff"
       content="Management des Normes"
       borderColor="#C0C0C0">
     <bounds
@@ -99,7 +99,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-6f396f58588c4bc488520e2d15954315"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#80bfff"
       content="Relation publique et&#xD;&#xA;coopération"
       borderColor="#C0C0C0">
     <bounds
@@ -112,7 +112,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-c0d893e7d52347ce8491e70c5296bd70"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#80bfff"
       content="Audit interne et&#xD;&#xA;management des risques"
       borderColor="#C0C0C0">
     <bounds
@@ -125,7 +125,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-1b0034f6dcc84e5daf027fc00aeb85d4"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#80bfff"
       content="Stratégie"
       borderColor="#C0C0C0">
     <bounds
@@ -138,7 +138,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-204d650ab53a49449f38648b3fa5a4e8"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#80bfff"
       content="Veille légale et règlementaire"
       borderColor="#C0C0C0">
     <bounds
@@ -151,7 +151,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-0be9e22bd68b44e887624c83309b33ae"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#80bfff"
       content="Gestion et suivi des performances"
       borderColor="#C0C0C0">
     <bounds
@@ -164,7 +164,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-fd040219635240e9bd1a8e272c93085e"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#80bfff"
       content="Stratégie"
       borderColor="#C0C0C0">
     <bounds
@@ -359,7 +359,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-65f296c36ec04a39bb08bb978bec64ef"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Gestion de la clientèle"
       borderColor="#C0C0C0">
     <bounds
@@ -450,7 +450,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-b72674a06d2848a8bc5d9a7db8c5e91c"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Gestion des infrastructures et&#xD;&#xA;domaines portuaires"
       borderColor="#C0C0C0">
     <bounds
@@ -554,7 +554,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-c48d99a05932404380858a60dc8418ac"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Gestion du trafic passager"
       borderColor="#C0C0C0">
     <bounds
@@ -606,7 +606,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-a90c0d4b97d34e04869ec5076c5cc5d6"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Gestion du pesage"
       borderColor="#C0C0C0">
     <bounds
@@ -645,7 +645,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-fe6d9bc46ff8488490294f7b0659ff57"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Gestion des escales navires"
       borderColor="#C0C0C0">
     <bounds
@@ -684,7 +684,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-7710ee7ca8de4a2da9cf5e4eacea82fd"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Gestion des marchandises"
       borderColor="#C0C0C0">
     <bounds
@@ -723,7 +723,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-046d9a7f238a44ffb8c0713eab13965b"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Services d’avitaillement"
       borderColor="#C0C0C0">
     <bounds
@@ -814,7 +814,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-b07f005fa27f4a248ec6644b88c554a9"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Services d’avitaillement"
       borderColor="#C0C0C0">
     <bounds
@@ -879,7 +879,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-79c17e25530f4e5889b1a4fc90c8f3e9"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#e8e8e8"
+      fillColor="#0080ff"
       content="Gestion de la facturation"
       borderColor="#C0C0C0">
     <bounds
