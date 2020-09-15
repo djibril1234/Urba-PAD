@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Business Process Map View"
-    id="id-edd0030680e04432bfca86bec83210f7">
+    id="id-edd0030680e04432bfca86bec83210f7"
+    documentation="La cartographie des processus existants n’a pas pour objectifs de détailler la déclinaison fine des processus, mais de définir un niveau de granularité suffisant pour dresser un bilan.&#xD;&#xA;&#xD;&#xA;Les processus sont organisés en Domaines de processus et en macro Processus.&#xD;&#xA;Nous avons 3 domaines de processus que sont :&#xD;&#xA;  • Le domaine de processus de Management&#xD;&#xA;  • Le domaine de processus Opérationnel&#xD;&#xA;  • Le domaine de processus de support.&#xD;&#xA;&#xD;&#xA;Le Port Autonome de Dakar réalise ses activités autour de 23 macro processus et 90 processus organisés selon le découpage suivant :&#xD;&#xA;  • Les processus de Management est composé de 7 macro processus et 16 processus&#xD;&#xA;  • Les processus opérationnels de 9 macro processus et 44 processus&#xD;&#xA;  • Les processus de support de 7 macro processus et 30 processus">
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-8d3d73beccea42e08beaa6ded10bd694"
