@@ -1489,4 +1489,19 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-c214cdf586d24c0d9a3b3c3f9f90c0ec.xml#id-c214cdf586d24c0d9a3b3c3f9f90c0ec"/>
   </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-3acba8be1e674639bbbc75de99fd12d3"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Modélisateur : INW Partners&#xD;&#xA;Validateur : PAD&#xD;&#xA;Date de validation : 15/09/2020"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="46"
+        y="1644"
+        width="424"
+        height="240"/>
+  </children>
 </canvas:CanvasModel>
