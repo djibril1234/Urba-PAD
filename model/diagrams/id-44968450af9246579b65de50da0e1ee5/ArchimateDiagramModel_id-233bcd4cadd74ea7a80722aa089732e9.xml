@@ -1,19 +1,5 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestion des marchandises du port de peche"
     id="id-233bcd4cadd74ea7a80722aa089732e9"
-    viewpoint="business_process_cooperation">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-115651f2420e4e6ea59528fb89819b3f">
-    <bounds
-        x="540"
-        y="384"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-b28d2b0349bb42868e3a66ad5d3caacc.xml#id-b28d2b0349bb42868e3a66ad5d3caacc"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    viewpoint="business_process_cooperation"/>

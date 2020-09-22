@@ -1,25 +1,26 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Functionnal Map View"
-    id="id-9a43b86b81554261b1d9d85967f3ef4a"
+    name="Functionnal Map View (Couverture ATLANTIS) "
+    id="id-490d7c2f45324d4dbd167ba93b1634ff"
     documentation="L’Architecture Fonctionnelle est l’organisation structurée des fonctions et des échanges entre elles. Elle est construite de manière à maîtriser les impacts sur le SI des évolutions lors de la prise en compte des orientations stratégiques.&#xD;&#xA;Dans le cadre de l’étude, nous avons structuré l’architecture fonctionnelle du PAD sur un découpage en 3 niveaux :&#xD;&#xA;&#xD;&#xA;- La zone fonctionnelle,&#xD;&#xA;- Le bloc fonctionnel&#xD;&#xA;- La macro-fonction.&#xD;&#xA;- La fonction&#xD;&#xA;&#xD;&#xA;La zone fonctionnelle : représente l’élément de premier niveau de l'architecture fonctionnelle du Port Autonome de Dakar.&#xD;&#xA;Le SI du PAD à 6 zones fonctionnelles : Pilotage, Opérationnel, Support, Echanges, Référence et Mécanismes Généraux.&#xD;&#xA;&#xD;&#xA;• Le bloc fonctionnel : représente l’élément de deuxième niveau du modèle de l’architecture fonctionnelle. Un bloc fonctionnel regroupe un ensemble de macro-fonctions susceptibles de subir des variations concomitantes.&#xD;&#xA;&#xD;&#xA;• La macro-fonction : est l’élément de troisième niveau de l'architecture fonctionnelle. Une macro-fonction est un regroupement de fonctions contribuant à une même finalité.&#xD;&#xA;&#xD;&#xA;• La fonction : est l’élément de quatrième niveau de l'architecture fonctionnelle. Une fonction est le niveau de structuration fonctionnelle le plus fin. Une fonction appartient à une et une seule macro fonction ou bloc fonctionnel.&#xD;&#xA;&#xD;&#xA;Compte tenu du niveau de découplage du SI du PAD, nous limiterons le niveau de finesse à la macro - fonction dont le niveau de richesse paraît suffisant pour déterminer les évolutions futures.&#xD;&#xA;Il organise l’ensemble des fonctions actuelles mises en oeuvre dans les activités de processus réalisés.">
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-5b2e04d481084534b25b23f8c6cf68f5"
+      id="id-63ef4f01027144ddaadabf27e4c770d4"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffffff"
-      content="ARCHITECTURE FONCTIONNELLE EXISTANTE"
+      content="COUVERTURE APPLICATIVE EXISTANTE DU SI PAD (PERIMETRE POC ATLANTIS)"
       borderColor="#C0C0C0">
     <bounds
-        x="408"
+        x="264"
         y="48"
-        width="719"
-        height="73"/>
+        width="1117"
+        height="85"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-9e3b0dcaab514725b51ed64d54318980"
+      id="id-1efd647593944f8384ca67d79fe353ad"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#f8c491"
       content="REFERENCE"
@@ -32,7 +33,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-9560536eb9344004a21f63a0da0e4e95"
+      id="id-71ac0d2919014883bb6d67ba5cdb0153"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#0000ff"
       fillColor="#c4c4f8"
@@ -46,7 +47,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-4c345f78d0f44f398552899d7854d095"
+      id="id-501663c940524e09b51a60dff8d82f59"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#0000ff"
       fillColor="#c4c4f8"
@@ -60,7 +61,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-39c60367b0f649a8a586ed85215da23d"
+      id="id-30905ee732784c92960dc60c80409746"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#8080c0"
       borderColor="#000000"
@@ -73,7 +74,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-cfb49fbc3db34aa0aa03a25462dd6d23"
+      id="id-7ed7c28b4a3a4e43b6ca04e68f080e8f"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#8080c0"
       borderColor="#000000"
@@ -85,7 +86,7 @@
         height="132"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-403ae3bc53364b93a142b2dc4a281f22"
+        id="id-cced4eb7c9174f988272b90fc7638cf9"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -99,7 +100,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-64bf64c5a5f243cfb1090e4269872f1e"
+        id="id-eed612eb526a4cfb9554319b1a1a37da"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -114,7 +115,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-489d6194830442ff8bfa6196bc2e760f"
+      id="id-4e965fe59eac473c8d683e93a1c497a7"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#8080c0"
       borderColor="#000000"
@@ -127,7 +128,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-90eae2b2f38e413d9c507262fbe617f5"
+      id="id-fcd8984d07664d61bf9717d406086315"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#8080c0"
       borderColor="#000000"
@@ -140,7 +141,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-bd12f3687c9742f6964eb8fcc06a6551"
+      id="id-a322784544a24416b8c3addcbdc66bd2"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#8080c0"
       borderColor="#000000"
@@ -153,7 +154,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-0018eaedcc6d400bb39f08afaa215eb0"
+      id="id-7eae8d3806784424a37f55b1c25475d5"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#8080c0"
       borderColor="#000000"
@@ -165,7 +166,7 @@
         height="132"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-effd3d86ea3a4b1983cea9cf8903c933"
+        id="id-00c3ec353ac34ff1a0addd78a115dc20"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         textAlignment="1"
@@ -181,7 +182,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-13e6b97d3dc64cf9957917c80d0970b7"
+      id="id-c067b0ae43994dce8d08447891fd1341"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#0000ff"
       fillColor="#c6f9f7"
@@ -195,7 +196,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-5506a0c901994a03ac1e90d70ede4b9b"
+      id="id-bbdce11b73584ca7a44d1d4f40ca6e5e"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#d5ff95"
       content="ECHANGES"
@@ -208,7 +209,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-ed3a66f0af494f3caeda6b114aea5bc6"
+      id="id-57d07bb4d2984dbea6399bb458f82bbe"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#eec8fb"
       content="MECANISMES GENERAUX"
@@ -221,7 +222,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-08e9c55d0df24948bb91fa63c60031d2"
+      id="id-2dd5b49ec67e44e18a96b5ebb84a7b4a"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#00eaea"
       borderColor="#000000"
@@ -232,37 +233,26 @@
         width="472"
         height="161"/>
     <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-bdb6a83fd2d7406aa710dc689abb027e"
+        xsi:type="archimate:DiagramModelReference"
+        id="id-044da92d25ff4c389002f72f519eec94"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion du traffic des navires&#xD;&#xA;">
+        fontColor="#004080"
+        fillColor="#ffff62"
+        alpha="250"
+        textPosition="1">
       <bounds
-          x="60"
-          y="60"
-          width="349"
-          height="37"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-e1706807a5774fe498391b29bf1305f9"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion du trafic des marchandises&#xD;&#xA;&#xD;&#xA;">
-      <bounds
-          x="60"
-          y="108"
-          width="349"
-          height="36"/>
+          x="36"
+          y="72"
+          width="372"
+          height="77"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-eeb04cdf91c2442291d4f2b6610e9e1d.xml#id-eeb04cdf91c2442291d4f2b6610e9e1d"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-b823e444e9ad405d9eb9786299b778bb"
+      id="id-fbd29bcec2374cce88f47e09c7473811"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cc99ff"
       borderColor="#000000"
@@ -274,7 +264,7 @@
         height="229"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-c334855b98024ea6a8330058abcc2862"
+        id="id-eb6267cb87394c108a94ff32148899a0"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -288,7 +278,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-32a707aadc134e01aee9a96137409d7b"
+        id="id-9340e863da954a5a800cf6c2a635d541"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -302,7 +292,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-0b107a4def1249a4b0edbd870db01598"
+        id="id-b5fdf28171754cb5a46f58ff181bf44c"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -317,7 +307,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-7be33db9b678449796a65c65f088875f"
+      id="id-4f0d0771a6a84533ba9cd3c07fc5956b"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffffa2"
       borderColor="#000000"
@@ -329,7 +319,7 @@
         height="169"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-f61ef914b50f4f0197f548003353443b"
+        id="id-300f525cbe1b4108bae3958b3c0a6185"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -343,7 +333,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-37f0282eb8f741329439418c238eabcf"
+        id="id-d39bcefb8d824146b18e772e7b0e37c6"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -358,7 +348,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-5b815b38795348ca981bb6ea60f843b4"
+      id="id-37e2c6d849284a60b36fdb17573a9937"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffaad5"
       borderColor="#000000"
@@ -370,7 +360,7 @@
         height="72"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-e6ea4895ae6841949355b17d3386d1e6"
+        id="id-24211fca9f944321be7df600a4c318f2"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -385,7 +375,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-f302317b05fe47a1b5f22176f36c73ef"
+      id="id-ce1827ff4a3847619c8781323edee339"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb895"
       borderColor="#000000"
@@ -398,7 +388,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-9c1d39fd39784729a210473769cc070f"
+      id="id-a7b1a35744ba448a893bcfa0cf5a47ba"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb895"
       borderColor="#000000"
@@ -411,7 +401,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-a7a29d0cc2e941d3838f6446f1332cde"
+      id="id-dce9f74d09fa4db29af60e6fc2a65816"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb895"
       borderColor="#000000"
@@ -424,7 +414,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-de376a1f03164a7fa49b6ea97cea9472"
+      id="id-c02bbd87b596475b82905128c321e99f"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb895"
       borderColor="#000000"
@@ -437,7 +427,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-74ea2cc011b449c393b0f9ccb4cb9808"
+      id="id-248d9d115d2542feb3b21a5e4ceebc84"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb895"
       borderColor="#000000"
@@ -450,7 +440,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-e617fa8ab5524d8fa45a15553c100813"
+      id="id-2a9236bd910e4f8fb8b8646bf6576669"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#00eaea"
       borderColor="#000000"
@@ -461,93 +451,26 @@
         width="472"
         height="301"/>
     <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-55990bd9f7424f39a8cca963f567ff8f"
+        xsi:type="archimate:DiagramModelReference"
+        id="id-ce78fa9bf90e45ab871b42f1a0881ccd"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion des domaines portuaires">
+        fontColor="#004080"
+        fillColor="#ffff62"
+        alpha="250"
+        textPosition="1">
       <bounds
-          x="60"
-          y="36"
-          width="349"
-          height="37"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-455df1043585437dabd9dec8e93947e0"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion des terre-pleins et hangars&#xD;&#xA;&#xD;&#xA;">
-      <bounds
-          x="60"
-          y="84"
-          width="349"
-          height="36"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-bc2e444d427746f29b7e8875ba8bc9e6"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion des domaines&#xD;&#xA;">
-      <bounds
-          x="60"
-          y="131"
-          width="349"
-          height="25"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-c62be0397e9240519978fe3b75017515"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion des postes à quai">
-      <bounds
-          x="60"
-          y="167"
-          width="349"
-          height="25"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-17e1f8de876e49efa8cf70fc32165683"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion des parking">
-      <bounds
-          x="60"
-          y="203"
-          width="349"
-          height="38"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-2e48e5bcbceb49e2afefba00f4f31991"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Gestion des concessions">
-      <bounds
-          x="60"
-          y="251"
-          width="349"
-          height="38"/>
+          x="48"
+          y="120"
+          width="348"
+          height="97"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-bb79a4103a624c33a802c0a5f76197e1.xml#id-bb79a4103a624c33a802c0a5f76197e1"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-fa5012bc7e714fdbb039edcef898c268"
+      id="id-b9fdf7f5d04b4bf6b1ddb0ae94ba6026"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#00eaea"
       borderColor="#000000"
@@ -559,7 +482,7 @@
         height="109"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-6a1f1c2fff21414f94384b019fc8ea82"
+        id="id-bff8688ac6fb4005a32647551fa3217b"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -573,7 +496,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-e65c2fa3cdb74361b2105c69e304457b"
+        id="id-b8e3c39379fe43d4975b903a313645fc"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -588,7 +511,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-1c4fe9e2fed049b5a8d525913b58cf57"
+      id="id-dc036102bf034286b1d517206993060c"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#00eaea"
       borderColor="#000000"
@@ -599,51 +522,26 @@
         width="385"
         height="145"/>
     <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-dc708f5e07d84b3b91f40aa970bb253f"
+        xsi:type="archimate:DiagramModelReference"
+        id="id-5fa5f08b98504f9ba7f46aca2ace56a9"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Fourniture d’eau et d’électricité">
+        fontColor="#004080"
+        fillColor="#ffff62"
+        alpha="250"
+        textPosition="1">
       <bounds
-          x="24"
-          y="36"
-          width="337"
-          height="25"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-b3d70ed6a8734651b4c875ec52fd6796"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Vente de titres d’accès">
-      <bounds
-          x="24"
-          y="72"
-          width="337"
-          height="25"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-027a6f8261794eeab8f65fb155fb82e3"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Location de matériels">
-      <bounds
-          x="24"
-          y="108"
-          width="337"
-          height="25"/>
+          x="48"
+          y="48"
+          width="288"
+          height="73"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-b7d87850589a48cfb756a8134f9e8c17.xml#id-b7d87850589a48cfb756a8134f9e8c17"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-b1759060c9554c4ab7a92f65e3166d49"
+      id="id-467b5bc5355e4a7886f5063f5beb454f"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#00eaea"
       borderColor="#000000"
@@ -655,7 +553,7 @@
         height="217"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-5503180c75b542109b26ebe9c839182d"
+        id="id-c4dad417be354183a06541a63b312488"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -669,7 +567,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-b068bedd394144499bee019a3f9b587e"
+        id="id-28ca75109e0442e8a6fe996b0be9ebbc"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -683,7 +581,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-8a37220a69694cd58b39ec0a9963dc22"
+        id="id-a7a8bd21997d4be294faf2536a31d79c"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -697,7 +595,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-c8a1121820f44e6ea59e3b05833bee63"
+        id="id-2ffa266986e44656829fd6e68aa6f148"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -711,7 +609,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-23e8f33bf0134cb289ac2df892b5bd6e"
+        id="id-fc7e7fa1be274e28a91f99582559f422"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -726,7 +624,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-9dd79e975f8b45acb72760e22436f6aa"
+      id="id-51c611183ffb4af280be960be1c20165"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cc99ff"
       borderColor="#000000"
@@ -738,7 +636,7 @@
         height="228"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-32dbc113cb51424cbc7a74c2a023030e"
+        id="id-7064c616f6bb40c18bb86222d3049253"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -752,7 +650,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-f46b72576978439f93ffedf63dfaf25c"
+        id="id-4817bc2911b9487b829c59b2968fc512"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -766,7 +664,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-454931f6e58d47eab62821fe9578d5fe"
+        id="id-2b6378e62767473f8c3c36f31b8ee713"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -780,7 +678,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-a908a9824d4f4eceaa63fbf56d87f2b5"
+        id="id-a80332c2c97349f29ee64dcc5e68fdc2"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -794,7 +692,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-8e566ad304c1470c8c726cf2a2bf0a96"
+        id="id-03e3523ffe3144b2bc8b26b71367a2d2"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -808,7 +706,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-e7dc4db684fc4400beaac0421793f6f0"
+        id="id-9196fbab378b4944ad5289efa3f4f6f7"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -822,7 +720,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-b1e7dfd5588347f2a8e28432da1527d6"
+        id="id-d6181b409016475ead3c0068a5e50710"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -836,7 +734,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-51dcdf24403145b485a3e71a41ed18ab"
+        id="id-8f5e56ae072f44b291cf49194c302769"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -851,7 +749,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-a1aa57b702994efbbd06779afba84a91"
+      id="id-b376100f040d4c809e25a246f2defcef"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cc99ff"
       borderColor="#000000"
@@ -863,7 +761,7 @@
         height="97"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-1ddc750996b241a4b68b77afa1367608"
+        id="id-9b6a5baf07344672a13dcd08773a8010"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -877,7 +775,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-72a19799c1e142c8a0482def02fa8fd1"
+        id="id-b621f0a17998420e909b67334c8445b9"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -892,7 +790,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-55c9c09c671c405e88edcbe3a1404c5d"
+      id="id-add59a22249e42e9a099e20d733c8761"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cc99ff"
       borderColor="#000000"
@@ -904,7 +802,7 @@
         height="126"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-b970e6f6829a475796d638fd237ea09b"
+        id="id-9d503583286347a3b6ee0a8c5e4d1501"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -918,7 +816,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-27f91585817e44e9ae6c867d7b6ad832"
+        id="id-9623cbd807064a24985fad993e16f742"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -932,7 +830,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-280432bc264644cb8a3eedfe3087181e"
+        id="id-11b33e36d62b4a0c98d01c245f5f0672"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -947,7 +845,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-6fa2e5b1b1714bed8d67e48d0e6bfec5"
+      id="id-3adee01f5b464768bccb9a9150dcd78d"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cc99ff"
       borderColor="#000000"
@@ -959,7 +857,7 @@
         height="229"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-967e5d53afd848aa9bc689ac66d8cd78"
+        id="id-123a896a573149cb88134cf6c4c8e458"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -973,7 +871,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-3853146ed4f64c26ae9a4973f8445aa6"
+        id="id-99ba1a5593ca475284fd6782fa23adae"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -987,7 +885,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-79b03cd27f27449abe3190a047274642"
+        id="id-e5aae2af3f544c82b3fd234ade79d67c"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1001,7 +899,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-c96dd163525d4e90a0d4042289190d78"
+        id="id-2f13b3e497bf405588060a70cefcd2d6"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1016,7 +914,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-03040c2eed5c445db2294f486fa2c312"
+      id="id-791a8fbb63844028bd2ba0ed1442da6e"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffffa2"
       borderColor="#000000"
@@ -1028,7 +926,7 @@
         height="98"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-74ef7968f0d14a12a58067ebca134640"
+        id="id-e7ed21e842e54559a9744cdbdb1a263e"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1043,7 +941,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-f646ecd8578a4e3b938907723026c4bf"
+      id="id-ebd2fad301ae4b6ab6321b33cd4118e1"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffffa2"
       borderColor="#000000"
@@ -1055,7 +953,7 @@
         height="99"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-f9e3203e35994099b87afbc4cef55d3f"
+        id="id-f48ff3d7b71b470abfd1d069f942d062"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1070,7 +968,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-fd04fff78a3b4679b0a858b1670ce210"
+      id="id-45fa960109a64719a4d93d546ee94008"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffaad5"
       borderColor="#000000"
@@ -1082,7 +980,7 @@
         height="96"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-1707f6f0cad24f29952c73ce694abb40"
+        id="id-f2e1aded495641128d9d4be300c779a8"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1097,7 +995,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-998523b1178f4c4faea48c728b84729f"
+      id="id-6510a3008fde4024a9225949b8c65c17"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffaad5"
       borderColor="#000000"
@@ -1109,7 +1007,7 @@
         height="109"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-f6331b7c413c4f1da959a64eafe6d0a9"
+        id="id-dba737320e1c42d0ae00250f96e697e0"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1123,7 +1021,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-ea0de10f2d4a462dace1aadfd898a411"
+        id="id-33be732c3b054dc1845460442b811150"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1138,7 +1036,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-73ee805da90347cc9a425dcd7b599ac8"
+      id="id-c203542a944d490d9e053d2361c9ea8d"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffaad5"
       borderColor="#000000"
@@ -1150,7 +1048,7 @@
         height="109"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-827ebe50684c4321824822ef3cb853b5"
+        id="id-51269393ed544f02a4fd80189cb873e0"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1164,7 +1062,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-36a78fe0499e4d939d9c27f8aaa29d61"
+        id="id-9e97333b91e246e1b4059a441c461043"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1179,7 +1077,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-b9a707aa91f046d88cea1698820e9ade"
+      id="id-890c2be618ec4008b4dc6568068ccdfb"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffaad5"
       borderColor="#000000"
@@ -1191,7 +1089,7 @@
         height="109"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-a3db12971ebc4ee39e9994fab27b616f"
+        id="id-4cdaf5d9145e4689a8b2694f45a10857"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1205,7 +1103,7 @@
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-4299345311af4a129574ccbdf1857fdf"
+        id="id-ee7c09bb3c304a748dc60484ba632a88"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
         fillColor="#ffcece"
@@ -1220,7 +1118,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-6a7d3a5bab8146b593dbebef20d1b1bd"
+      id="id-50bd2045d2e44fbf810c9a52f89d6965"
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#ffffff"
