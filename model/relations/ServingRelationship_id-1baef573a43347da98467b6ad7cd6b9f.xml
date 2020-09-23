@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sert"
     id="id-1baef573a43347da98467b6ad7cd6b9f">
   <source
       xsi:type="archimate:ApplicationFunction"

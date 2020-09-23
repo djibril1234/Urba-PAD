@@ -181,4 +181,16 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-1c32d05b21374510865750fe031ec8e7.xml#id-1c32d05b21374510865750fe031ec8e7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3a56bce05a3a4ac1b12542cbcd9d407a"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE FONCTIONNELLE - POINT DE VUE ATLANTIS">
+    <bounds
+        x="142"
+        y="34"
+        width="817"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>

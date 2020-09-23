@@ -1,12 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Architecture Applicative - Point de vue Application ATLANTIS"
+    name="Architecture Applicative "
     id="id-07b3395ba71a4a74b2f5756747491aa3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ca15e913ff304071ba3f81a41eec72b6"
-      targetConnections="id-0a5419eb55b440ff8e7e1d06f46a5d6d id-67982f140af048478faf714967efbd53">
+      targetConnections="id-67982f140af048478faf714967efbd53 id-0a5419eb55b440ff8e7e1d06f46a5d6d">
     <bounds
         x="258"
         y="272"
@@ -61,78 +61,35 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e840b586153a4fd5b67d06e06d64b19a">
+      id="id-5cc514d92d2948d58f257590ba94bb78">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0a5419eb55b440ff8e7e1d06f46a5d6d"
-        source="id-e840b586153a4fd5b67d06e06d64b19a"
+        source="id-5cc514d92d2948d58f257590ba94bb78"
         target="id-ca15e913ff304071ba3f81a41eec72b6">
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-9fca26fa7b944a51862ffcc0d444713f.xml#id-9fca26fa7b944a51862ffcc0d444713f"/>
     </sourceConnections>
     <bounds
-        x="312"
-        y="84"
+        x="337"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-941fb5ed29204f119a43844b30f60d58.xml#id-941fb5ed29204f119a43844b30f60d58"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-ffb126f99fa44fee920b71a23caf4d84.xml#id-ffb126f99fa44fee920b71a23caf4d84"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-adecf691b2094cb7b0c007493e8be333"
+      id="id-a87aeb9ef634478e92f54fae57b12ae8"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="*">
+      content="META MODELE  - VUE APPLICATIVE">
     <bounds
-        x="378"
-        y="236"
-        width="25"
-        height="31"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-bcbc1846d14a4f7aa218a683a3dd94bf"
-      textAlignment="1"
-      content="*">
-    <bounds
-        x="342"
-        y="138"
-        width="25"
-        height="31"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-c2f25e69f54e42108af39276e7efdf03"
-      textAlignment="1"
-      content="*">
-    <bounds
-        x="359"
-        y="360"
-        width="25"
-        height="31"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-731cbd996d704901a5c932577056e626"
-      textAlignment="1"
-      content="*">
-    <bounds
-        x="312"
-        y="462"
-        width="25"
-        height="31"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9b174670443a432787e0c46fd27cdbbd"
-      textAlignment="1"
-      content="COUCHE APPLICATIVE - POINT DE VUE COUVERTURE ATLANTIS">
-    <bounds
-        x="186"
+        x="216"
         y="24"
-        width="415"
-        height="34"/>
+        width="505"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

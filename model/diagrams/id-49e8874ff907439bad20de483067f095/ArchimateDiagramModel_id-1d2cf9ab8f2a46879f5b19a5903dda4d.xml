@@ -9,7 +9,7 @@
       targetConnections="id-3e431af923284e858be5252f43a7bc09 id-da840fcce8994049afab60914f8bc719">
     <bounds
         x="252"
-        y="72"
+        y="120"
         width="336"
         height="105"/>
     <archimateElement
@@ -39,7 +39,7 @@
     </sourceConnections>
     <bounds
         x="264"
-        y="312"
+        y="360"
         width="169"
         height="97"/>
     <children
@@ -73,7 +73,7 @@
     </sourceConnections>
     <bounds
         x="492"
-        y="333"
+        y="381"
         width="120"
         height="55"/>
     <archimateElement
@@ -95,7 +95,7 @@
     </sourceConnections>
     <bounds
         x="492"
-        y="216"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
@@ -117,11 +117,23 @@
     </sourceConnections>
     <bounds
         x="264"
-        y="216"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_id-dd2a6f191e834a80b867d3a36c880023.xml#id-dd2a6f191e834a80b867d3a36c880023"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3bdec3a4748940259da67888e201a250"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE ATLANTIS">
+    <bounds
+        x="48"
+        y="36"
+        width="817"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
