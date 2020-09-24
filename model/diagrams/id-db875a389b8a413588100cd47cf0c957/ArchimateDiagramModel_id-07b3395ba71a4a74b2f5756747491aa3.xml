@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architecture Applicative "
-    id="id-07b3395ba71a4a74b2f5756747491aa3">
+    id="id-07b3395ba71a4a74b2f5756747491aa3"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ca15e913ff304071ba3f81a41eec72b6"

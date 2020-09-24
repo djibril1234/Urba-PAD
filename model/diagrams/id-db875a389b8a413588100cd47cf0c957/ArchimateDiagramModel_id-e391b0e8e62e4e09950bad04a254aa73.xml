@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architecture Technique"
-    id="id-e391b0e8e62e4e09950bad04a254aa73">
+    id="id-e391b0e8e62e4e09950bad04a254aa73"
+    viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ac139c2c630641aaac72dad232327d2e"

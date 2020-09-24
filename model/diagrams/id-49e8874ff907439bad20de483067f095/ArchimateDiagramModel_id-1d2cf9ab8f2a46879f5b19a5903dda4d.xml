@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Atlantis Technology View"
-    id="id-1d2cf9ab8f2a46879f5b19a5903dda4d">
+    id="id-1d2cf9ab8f2a46879f5b19a5903dda4d"
+    viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-757450766b4f4c1eb3dafe758b907b45"

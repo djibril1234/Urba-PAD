@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestion de la capitainerie et desopérations portuaires - Point de vue Altantis"
+    name="Gestion de la capitainerie et des opérations portuaires - Point de vue Altantis"
     id="id-eeb04cdf91c2442291d4f2b6610e9e1d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

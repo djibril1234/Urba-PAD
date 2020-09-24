@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architecture Fonctionnelle"
-    id="id-142bd12e604e41e795eca035a736de83">
+    id="id-142bd12e604e41e795eca035a736de83"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-02b5d6fc91cc490d90676cf6a4a0d8a8"
