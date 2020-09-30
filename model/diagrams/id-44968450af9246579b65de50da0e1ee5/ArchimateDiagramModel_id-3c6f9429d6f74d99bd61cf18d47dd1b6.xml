@@ -62,10 +62,22 @@
             href="TriggeringRelationship_id-5c43a8bd133244d58cb52150f42ef70f.xml#id-5c43a8bd133244d58cb52150f42ef70f"/>
       </sourceConnections>
       <bounds
-          x="60"
+          x="48"
           y="72"
-          width="120"
+          width="132"
           height="156"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-a4b6d8427beb47489f83c6c19773c254">
+        <bounds
+            x="12"
+            y="60"
+            width="109"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-62ce315fa8004328b9ef53b4675c9e04.xml#id-62ce315fa8004328b9ef53b4675c9e04"/>
@@ -86,7 +98,7 @@
       <bounds
           x="228"
           y="72"
-          width="120"
+          width="133"
           height="156"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -108,8 +120,20 @@
       <bounds
           x="408"
           y="72"
-          width="120"
+          width="133"
           height="156"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-17d2a16e9953402d84ce80a926e84caf">
+        <bounds
+            x="12"
+            y="60"
+            width="109"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-d3d43370c05340dca4f4a8fc5f8f35d2.xml#id-d3d43370c05340dca4f4a8fc5f8f35d2"/>
@@ -121,7 +145,7 @@
       <bounds
           x="588"
           y="72"
-          width="120"
+          width="133"
           height="156"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
