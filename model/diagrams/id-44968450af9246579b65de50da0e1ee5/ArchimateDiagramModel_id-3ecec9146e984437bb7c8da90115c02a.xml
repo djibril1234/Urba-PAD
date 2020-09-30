@@ -179,4 +179,8 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-4f0eac1e25314a7f94b3243be851810d.xml#id-4f0eac1e25314a7f94b3243be851810d"/>
   </children>
+  <properties
+      key="Responsable "/>
+  <properties
+      key="Finalité du processus "/>
 </archimate:ArchimateDiagramModel>

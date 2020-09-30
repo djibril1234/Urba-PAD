@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les navires pilotables"
     id="id-439c0b09c38d4de4a8195c0597bd5545"
+    documentation="Accueillir et offrir aux navires des services de qualité conformément aux exigences, dans les meilleures conditions de sécurité et de sûreté"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -210,4 +211,9 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-b07bd575fd704428a1926eb8b17b069c.xml#id-b07bd575fd704428a1926eb8b17b069c"/>
   </children>
+  <properties
+      key="Responsable "/>
+  <properties
+      key="Finalité du processus "
+      value="Accueillir et offrir aux navires des services de qualité conformément aux exigences, dans les meilleures conditions de sécurité et de sûreté"/>
 </archimate:ArchimateDiagramModel>
