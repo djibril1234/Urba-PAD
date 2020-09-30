@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Business Process Map View (Perimètre POC)"
-    id="id-c4674d33ecc5478790e70893ef162cf0">
+    id="id-c4674d33ecc5478790e70893ef162cf0"
+    documentation="Les macro processsus en rouge correspondent au périmètre POC">
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-7e100bc0b81f4b5abe37dcded827647d"
@@ -453,7 +454,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-1ca19dc93f404f6bb6d30b2df04b361f"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#0482ff"
+      fillColor="#ffb0b0"
       content="Gestion des infrastructures et&#xD;&#xA;domaines portuaires"
       borderColor="#c0c0c0">
     <bounds
@@ -648,7 +649,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-a43a0ac3263b48dab9956b4f6866ae6e"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#0482ff"
+      fillColor="#ffb0b0"
       content="Gestion des escales navires"
       borderColor="#C0C0C0">
     <bounds
@@ -687,7 +688,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-6a44f79504334e50a4833f391535d6a7"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#0482ff"
+      fillColor="#ffb0b0"
       content="Gestion des marchandises"
       borderColor="#C0C0C0">
     <bounds
@@ -726,7 +727,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-5c84d0287a0a4321ba1a320ec257a88c"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#0482ff"
+      fillColor="#ffb0b0"
       content="Services d’avitaillement"
       borderColor="#C0C0C0">
     <bounds
@@ -817,7 +818,7 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-11f85bf96fef4d958fb4e4408d483d79"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#0482ff"
+      fillColor="#ffb0b0"
       content="Services d’avitaillement"
       borderColor="#C0C0C0">
     <bounds
@@ -1488,30 +1489,5 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-c214cdf586d24c0d9a3b3c3f9f90c0ec.xml#id-c214cdf586d24c0d9a3b3c3f9f90c0ec"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-8a06cafdb17447888eca68ce515efdd7"
-      textAlignment="1"
-      alpha="0"
-      borderColor="#ff0000">
-    <bounds
-        x="575"
-        y="653"
-        width="310"
-        height="338"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-be86cbbd9b8d42c2ae911d026657230e"
-      textAlignment="1"
-      fillColor="#ffffff"
-      alpha="0"
-      borderColor="#ff0000">
-    <bounds
-        x="1201"
-        y="653"
-        width="1104"
-        height="328"/>
   </children>
 </canvas:CanvasModel>
