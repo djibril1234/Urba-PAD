@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les concessions"
-    id="id-c03ec07fed8a4a99a17f819f55cf9a49"/>
+    id="id-c03ec07fed8a4a99a17f819f55cf9a49"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-05a5968977844e818f57ca36fc02d3db">
+    <bounds
+        x="192"
+        y="97"
+        width="961"
+        height="348"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-675d38d6d7db4e18b1f32525b12290d9.xml#id-675d38d6d7db4e18b1f32525b12290d9"/>
+  </children>
+</archimate:ArchimateDiagramModel>
