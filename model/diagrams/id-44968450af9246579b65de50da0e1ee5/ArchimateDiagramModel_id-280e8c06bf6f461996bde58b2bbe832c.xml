@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les marchandises du port de pêche"
-    id="id-280e8c06bf6f461996bde58b2bbe832c">
+    id="id-280e8c06bf6f461996bde58b2bbe832c"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f47d9eaabe854967a5baf9df98398a68">
