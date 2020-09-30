@@ -205,8 +205,8 @@
       textAlignment="1"
       content="CARTOGRAPHIE PROCESSUS METIER - POINT DE VUE ATLANTIS">
     <bounds
-        x="120"
-        y="60"
+        x="140"
+        y="72"
         width="814"
         height="49"/>
   </children>

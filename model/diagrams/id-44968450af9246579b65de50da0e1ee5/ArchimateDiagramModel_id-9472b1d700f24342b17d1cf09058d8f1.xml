@@ -53,8 +53,8 @@
           href="TriggeringRelationship_id-dec42360ce6a4401a8ad89f33b615fb7.xml#id-dec42360ce6a4401a8ad89f33b615fb7"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="120"
+        x="240"
+        y="180"
         width="781"
         height="301"/>
     <children
@@ -139,5 +139,17 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-ba5362f7171941a99d7b95537467c2dd.xml#id-ba5362f7171941a99d7b95537467c2dd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c60197a7c08549799907f6e507dd7a87"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - POINT DE VUE ATLANTIS">
+    <bounds
+        x="240"
+        y="96"
+        width="781"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
