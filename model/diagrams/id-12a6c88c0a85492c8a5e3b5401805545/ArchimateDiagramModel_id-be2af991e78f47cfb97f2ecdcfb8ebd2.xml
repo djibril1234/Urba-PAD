@@ -128,12 +128,25 @@
         targetConnections="id-60b1238be48b49258d45c57dcb841351">
       <bounds
           x="84"
-          y="192"
+          y="156"
           width="853"
           height="97"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-dad2f1f99dc343268c3a4b6deeb814aa.xml#id-dad2f1f99dc343268c3a4b6deeb814aa"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-b6f33720add047d296f8452303c5c5f5"
+        textPosition="1">
+      <bounds
+          x="84"
+          y="312"
+          width="853"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-1d2cf9ab8f2a46879f5b19a5903dda4d.xml#id-1d2cf9ab8f2a46879f5b19a5903dda4d"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
