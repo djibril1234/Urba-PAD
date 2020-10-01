@@ -35,10 +35,10 @@
           href="CompositionRelationship_id-ef04dd5aad47445799990b5ae282b8bf.xml#id-ef04dd5aad47445799990b5ae282b8bf"/>
     </sourceConnections>
     <bounds
-        x="230"
-        y="156"
-        width="767"
-        height="287"/>
+        x="312"
+        y="132"
+        width="517"
+        height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7437511f87d24793baa1935d8a8ed298"
@@ -53,8 +53,8 @@
             href="TriggeringRelationship_id-99964b8de76342efa4ed3e77d6a82a55.xml#id-99964b8de76342efa4ed3e77d6a82a55"/>
       </sourceConnections>
       <bounds
-          x="72"
-          y="78"
+          x="24"
+          y="30"
           width="133"
           height="139"/>
       <children
@@ -87,8 +87,8 @@
             href="TriggeringRelationship_id-9bc98922d8a2486494bc5cacf547ffaa.xml#id-9bc98922d8a2486494bc5cacf547ffaa"/>
       </sourceConnections>
       <bounds
-          x="276"
-          y="78"
+          x="194"
+          y="30"
           width="120"
           height="139"/>
       <archimateElement
@@ -100,8 +100,8 @@
         id="id-fcd627835c9b404e8886bb76154a19ae"
         targetConnections="id-bc145ce23e99461390d692f24974ea46 id-216a00ed283a4315b2b1de668083583c">
       <bounds
-          x="492"
-          y="78"
+          x="360"
+          y="30"
           width="133"
           height="139"/>
       <children
@@ -155,9 +155,9 @@
           href="CompositionRelationship_id-6cece0a5b92341b1945beded78c64f68.xml#id-6cece0a5b92341b1945beded78c64f68"/>
     </sourceConnections>
     <bounds
-        x="230"
-        y="468"
-        width="767"
+        x="312"
+        y="360"
+        width="517"
         height="217"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -173,7 +173,7 @@
             href="TriggeringRelationship_id-8f5a34bbb8ca408895757a7c12aef939.xml#id-8f5a34bbb8ca408895757a7c12aef939"/>
       </sourceConnections>
       <bounds
-          x="72"
+          x="12"
           y="56"
           width="120"
           height="137"/>
@@ -195,7 +195,7 @@
             href="TriggeringRelationship_id-1c2c453b5fd44cb2b1fb327de4d4c1fd.xml#id-1c2c453b5fd44cb2b1fb327de4d4c1fd"/>
       </sourceConnections>
       <bounds
-          x="288"
+          x="168"
           y="56"
           width="133"
           height="137"/>
@@ -220,7 +220,7 @@
         id="id-7848d084ffaf421ebe99209687c7b1d5"
         targetConnections="id-a033a16c1ae843969612925e0d1a8481 id-2fd64930ed1a4981939d287f362dc9d2">
       <bounds
-          x="504"
+          x="348"
           y="56"
           width="145"
           height="137"/>

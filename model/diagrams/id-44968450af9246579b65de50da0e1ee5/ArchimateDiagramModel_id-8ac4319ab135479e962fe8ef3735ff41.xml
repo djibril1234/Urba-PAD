@@ -26,10 +26,10 @@
           href="CompositionRelationship_id-63a59bf00353430fa855de55af66ccf5.xml#id-63a59bf00353430fa855de55af66ccf5"/>
     </sourceConnections>
     <bounds
-        x="360"
-        y="204"
-        width="469"
-        height="253"/>
+        x="432"
+        y="192"
+        width="337"
+        height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fc90a90f4e424126844fff37cd966769"
@@ -44,8 +44,8 @@
             href="TriggeringRelationship_id-c60e5212d51d40a1901b104262d29ded.xml#id-c60e5212d51d40a1901b104262d29ded"/>
       </sourceConnections>
       <bounds
-          x="60"
-          y="112"
+          x="12"
+          y="28"
           width="133"
           height="117"/>
       <children
@@ -69,8 +69,8 @@
         id="id-b4ed719088ea4dd6833a67a30901a8d0"
         targetConnections="id-9d01aa75c6584accab7240e575b7022a id-1d82d67655d84040bbb9f85a5b0e6dd6">
       <bounds
-          x="252"
-          y="112"
+          x="192"
+          y="28"
           width="133"
           height="117"/>
       <children

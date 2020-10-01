@@ -53,10 +53,10 @@
           href="CompositionRelationship_id-911e00a612ce401eacc21a1a936f9f3f.xml#id-911e00a612ce401eacc21a1a936f9f3f"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="156"
-        width="1057"
-        height="300"/>
+        x="180"
+        y="132"
+        width="865"
+        height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7b22759313ca448e98a77399fe659b07"
@@ -71,8 +71,8 @@
             href="TriggeringRelationship_id-824e5f2775944db2806dbd7853a61422.xml#id-824e5f2775944db2806dbd7853a61422"/>
       </sourceConnections>
       <bounds
-          x="65"
-          y="105"
+          x="24"
+          y="33"
           width="120"
           height="148"/>
       <archimateElement
@@ -93,8 +93,8 @@
             href="TriggeringRelationship_id-c51bf9c8e9384f04a5a409bd495d2258.xml#id-c51bf9c8e9384f04a5a409bd495d2258"/>
       </sourceConnections>
       <bounds
-          x="264"
-          y="108"
+          x="192"
+          y="36"
           width="133"
           height="145"/>
       <children
@@ -127,8 +127,8 @@
             href="TriggeringRelationship_id-64949535e4c241d8831c61d03e1b7abd.xml#id-64949535e4c241d8831c61d03e1b7abd"/>
       </sourceConnections>
       <bounds
-          x="468"
-          y="108"
+          x="360"
+          y="34"
           width="133"
           height="145"/>
       <children
@@ -161,8 +161,8 @@
             href="TriggeringRelationship_id-a99ff42c769d4e8bb75db7f6d41e14ce.xml#id-a99ff42c769d4e8bb75db7f6d41e14ce"/>
       </sourceConnections>
       <bounds
-          x="660"
-          y="108"
+          x="540"
+          y="36"
           width="133"
           height="145"/>
       <children
@@ -186,8 +186,8 @@
         id="id-3d5e74276f3f48489797aec7836ecdc0"
         targetConnections="id-a4a18208d7da4c3ba6f0a4290bef38b4 id-779da517b60b415dafcb8b1ca64b3719">
       <bounds
-          x="864"
-          y="108"
+          x="708"
+          y="34"
           width="133"
           height="145"/>
       <children
