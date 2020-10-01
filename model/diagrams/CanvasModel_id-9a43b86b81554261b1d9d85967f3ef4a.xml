@@ -559,20 +559,6 @@
         height="109"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-6a1f1c2fff21414f94384b019fc8ea82"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Facturation">
-      <bounds
-          x="24"
-          y="36"
-          width="337"
-          height="25"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
         id="id-e65c2fa3cdb74361b2105c69e304457b"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
@@ -581,7 +567,7 @@
         content="Suivi dossier escale">
       <bounds
           x="24"
-          y="72"
+          y="48"
           width="337"
           height="25"/>
     </children>
