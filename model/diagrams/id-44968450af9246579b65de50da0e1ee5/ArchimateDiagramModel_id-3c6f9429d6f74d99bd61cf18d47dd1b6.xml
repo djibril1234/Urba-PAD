@@ -44,10 +44,10 @@
           href="CompositionRelationship_id-5e3fcdbef7254c44999cc4980358c738.xml#id-5e3fcdbef7254c44999cc4980358c738"/>
     </sourceConnections>
     <bounds
-        x="168"
-        y="132"
-        width="817"
-        height="349"/>
+        x="192"
+        y="156"
+        width="697"
+        height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-928cd0a8ccae43bc841a76e62d0ee999"
@@ -62,8 +62,8 @@
             href="TriggeringRelationship_id-5c43a8bd133244d58cb52150f42ef70f.xml#id-5c43a8bd133244d58cb52150f42ef70f"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="72"
+          x="12"
+          y="24"
           width="132"
           height="156"/>
       <children
@@ -96,8 +96,8 @@
             href="TriggeringRelationship_id-26834b3130324620a35a2215220629d4.xml#id-26834b3130324620a35a2215220629d4"/>
       </sourceConnections>
       <bounds
-          x="228"
-          y="72"
+          x="192"
+          y="24"
           width="133"
           height="156"/>
       <archimateElement
@@ -118,8 +118,8 @@
             href="TriggeringRelationship_id-b13de9d8f2314aeeb43ae3dd37e1bfb3.xml#id-b13de9d8f2314aeeb43ae3dd37e1bfb3"/>
       </sourceConnections>
       <bounds
-          x="408"
-          y="72"
+          x="372"
+          y="24"
           width="133"
           height="156"/>
       <children
@@ -143,8 +143,8 @@
         id="id-11cf51b16ce446999a05d1d0162cfbb8"
         targetConnections="id-f3257253334842cda22cf2d050199684 id-33b44760611045a7b637c103ae077306">
       <bounds
-          x="588"
-          y="72"
+          x="552"
+          y="24"
           width="133"
           height="156"/>
       <archimateElement
@@ -162,8 +162,8 @@
       textAlignment="1"
       content="CARTOGRAPHIE PROCESSUS METIER - POINT DE VUE ATLANTIS">
     <bounds
-        x="171"
-        y="72"
+        x="168"
+        y="24"
         width="814"
         height="49"/>
   </children>
