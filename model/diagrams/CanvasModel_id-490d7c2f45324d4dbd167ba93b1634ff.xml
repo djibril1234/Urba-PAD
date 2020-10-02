@@ -4,7 +4,7 @@
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Functionnal Map View (Perimètre POC) "
     id="id-490d7c2f45324d4dbd167ba93b1634ff"
-    documentation="Les macro fonctions en jaune correspondent au perimètre POC">
+    documentation="Les blocs fonctionnels en jaune correspondent au perimètre POC">
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-63ef4f01027144ddaadabf27e4c770d4"

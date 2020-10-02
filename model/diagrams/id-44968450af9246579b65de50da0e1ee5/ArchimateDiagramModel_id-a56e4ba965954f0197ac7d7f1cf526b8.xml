@@ -27,21 +27,21 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bfc4b43bedd1446798beb667e21e75b3"
-        source="id-e8b5febd98fa4cdb8213095a5bb3f22b"
-        target="id-02a9625bc7cf48b48c69f707295954e0">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-dd5e3c593820404ba3595932b2d69429.xml#id-dd5e3c593820404ba3595932b2d69429"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4c08425d28124f4d9e18e90e56f4f98e"
         source="id-e8b5febd98fa4cdb8213095a5bb3f22b"
         target="id-3698c32d40bb4921b039f6cc9020d9e7">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-805172e45aaa4c0cb23e1eb1bcfccfba.xml#id-805172e45aaa4c0cb23e1eb1bcfccfba"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bfc4b43bedd1446798beb667e21e75b3"
+        source="id-e8b5febd98fa4cdb8213095a5bb3f22b"
+        target="id-02a9625bc7cf48b48c69f707295954e0">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-dd5e3c593820404ba3595932b2d69429.xml#id-dd5e3c593820404ba3595932b2d69429"/>
     </sourceConnections>
     <bounds
         x="204"
