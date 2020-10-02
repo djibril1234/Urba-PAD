@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Processus "
+    id="id-8fed983244c54dd6b6b8bef3e19f8075">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bee72d71019b4c3386d6c5f0824fb90c"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="META MODELE  - VUE PROCESSUS">
+    <bounds
+        x="144"
+        y="24"
+        width="505"
+        height="49"/>
+  </children>
+</archimate:ArchimateDiagramModel>

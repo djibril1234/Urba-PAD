@@ -4,7 +4,7 @@
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Functionnal Map View (Perimètre POC) "
     id="id-490d7c2f45324d4dbd167ba93b1634ff"
-    documentation="Les macro fonctions en jaune correspondent au perimètre POC">
+    documentation="Les blocs fonctionnels en jaune correspondent au perimètre POC">
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-63ef4f01027144ddaadabf27e4c770d4"
@@ -482,20 +482,6 @@
         height="109"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-bff8688ac6fb4005a32647551fa3217b"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Facturation">
-      <bounds
-          x="24"
-          y="36"
-          width="337"
-          height="25"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
         id="id-b8e3c39379fe43d4975b903a313645fc"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#6f0000"
@@ -504,7 +490,7 @@
         content="Suivi dossier escale">
       <bounds
           x="24"
-          y="72"
+          y="60"
           width="337"
           height="25"/>
     </children>
