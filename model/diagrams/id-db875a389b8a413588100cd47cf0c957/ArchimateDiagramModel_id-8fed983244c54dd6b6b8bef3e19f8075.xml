@@ -15,4 +15,58 @@
         width="505"
         height="49"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a7bed2e0cac140d29e1e783c508d8b9d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-49340d566675474d81a024222a8a6fa4"
+        source="id-a7bed2e0cac140d29e1e783c508d8b9d"
+        target="id-07e10299dee4439fab89f316e5af249e">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-9aa5775bb1e4481081d96a7759bc3240.xml#id-9aa5775bb1e4481081d96a7759bc3240"/>
+    </sourceConnections>
+    <bounds
+        x="228"
+        y="144"
+        width="217"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-07e10299dee4439fab89f316e5af249e"
+        targetConnections="id-49340d566675474d81a024222a8a6fa4 id-8ad30bdf3a4447f3ab1844a0cb657e6a">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-8ad30bdf3a4447f3ab1844a0cb657e6a"
+          source="id-07e10299dee4439fab89f316e5af249e"
+          target="id-07e10299dee4439fab89f316e5af249e">
+        <bendpoints
+            startY="60"
+            endY="60"/>
+        <bendpoints
+            startX="100"
+            startY="60"
+            endX="100"
+            endY="60"/>
+        <bendpoints
+            startX="100"
+            endX="100"/>
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_id-42534dcb8b3e405aaec31b8d48e5ff0b.xml#id-42534dcb8b3e405aaec31b8d48e5ff0b"/>
+      </sourceConnections>
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-d7e9cf8e2c264fed911232b8d3d61d8a.xml#id-d7e9cf8e2c264fed911232b8d3d61d8a"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-53dbc9785ad44ad0bda0e75963b651bb.xml#id-53dbc9785ad44ad0bda0e75963b651bb"/>
+  </children>
 </archimate:ArchimateDiagramModel>
