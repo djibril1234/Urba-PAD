@@ -1288,9 +1288,9 @@
       fillColor="#ffffbf">
     <bounds
         x="1981"
-        y="1461"
+        y="1447"
         width="263"
-        height="37"/>
+        height="51"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-8ba26016a6874725b8149b38a6887db1.xml#id-8ba26016a6874725b8149b38a6887db1"/>
