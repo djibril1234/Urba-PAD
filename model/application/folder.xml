@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application"
     id="id-657d33e6c8464c54bfa176e0cae5081e"
+    documentation="La liste des composants applicatifs de l'entreprise PAD."
     type="application"/>
