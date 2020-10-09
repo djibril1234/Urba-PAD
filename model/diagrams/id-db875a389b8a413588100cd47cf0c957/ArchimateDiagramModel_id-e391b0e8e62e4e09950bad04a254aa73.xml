@@ -9,7 +9,7 @@
       id="id-ac139c2c630641aaac72dad232327d2e"
       targetConnections="id-796049d347ec4d7787fe5a56837ea454">
     <bounds
-        x="240"
+        x="408"
         y="96"
         width="251"
         height="55"/>
@@ -31,7 +31,7 @@
           href="ServingRelationship_id-356e38f2a9414d76b4a409571a53ba7e.xml#id-356e38f2a9414d76b4a409571a53ba7e"/>
     </sourceConnections>
     <bounds
-        x="306"
+        x="474"
         y="192"
         width="120"
         height="55"/>
@@ -52,7 +52,7 @@
           href="CompositionRelationship_id-d2764ab04c7e4264888108efb4e2e5fe.xml#id-d2764ab04c7e4264888108efb4e2e5fe"/>
     </sourceConnections>
     <bounds
-        x="288"
+        x="456"
         y="324"
         width="186"
         height="99"/>
@@ -93,7 +93,7 @@
       textAlignment="1"
       content="META MODELE - VUE TECHNIQUE">
     <bounds
-        x="168"
+        x="336"
         y="24"
         width="469"
         height="49"/>

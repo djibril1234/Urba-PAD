@@ -10,7 +10,7 @@
       textAlignment="1"
       content="META MODELE  - VUE PROCESSUS">
     <bounds
-        x="144"
+        x="312"
         y="24"
         width="505"
         height="49"/>
@@ -28,7 +28,7 @@
           href="CompositionRelationship_id-9aa5775bb1e4481081d96a7759bc3240.xml#id-9aa5775bb1e4481081d96a7759bc3240"/>
     </sourceConnections>
     <bounds
-        x="228"
+        x="396"
         y="144"
         width="217"
         height="145"/>
