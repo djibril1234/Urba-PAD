@@ -1337,7 +1337,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-5606b2afbc8b44ae8a2a50ec29647be4"
-      fillColor="#ffffbf">
+      fillColor="#ff0000">
     <bounds
         x="604"
         y="918"
@@ -1350,7 +1350,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-794112e2d37e4d8c9578622fe88ecd25"
-      fillColor="#ffffbf">
+      fillColor="#ff0000">
     <bounds
         x="604"
         y="944"
