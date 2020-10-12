@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sert"
+    id="id-bf3207ef08724e198b619faebe06ecea">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-1c32d05b21374510865750fe031ec8e7.xml#id-1c32d05b21374510865750fe031ec8e7"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-9f74cf7871a343d49a4c3db58ffb7d9c.xml#id-9f74cf7871a343d49a4c3db58ffb7d9c"/>
+</archimate:ServingRelationship>

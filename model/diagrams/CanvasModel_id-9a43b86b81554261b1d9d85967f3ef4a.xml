@@ -1,0 +1,1222 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Functionnal Map View"
+    id="id-9a43b86b81554261b1d9d85967f3ef4a"
+    documentation="L’Architecture Fonctionnelle est l’organisation structurée des fonctions et des échanges entre elles. Elle est construite de manière à maîtriser les impacts sur le SI des évolutions lors de la prise en compte des orientations stratégiques.&#xD;&#xA;Dans le cadre de l’étude, nous avons structuré l’architecture fonctionnelle du PAD sur un découpage en 3 niveaux :&#xD;&#xA;&#xD;&#xA;- La zone fonctionnelle,&#xD;&#xA;- Le bloc fonctionnel&#xD;&#xA;- La macro-fonction.&#xD;&#xA;- La fonction&#xD;&#xA;&#xD;&#xA;La zone fonctionnelle : représente l’élément de premier niveau de l'architecture fonctionnelle du Port Autonome de Dakar.&#xD;&#xA;Le SI du PAD à 6 zones fonctionnelles : Pilotage, Opérationnel, Support, Echanges, Référence et Mécanismes Généraux.&#xD;&#xA;&#xD;&#xA;• Le bloc fonctionnel : représente l’élément de deuxième niveau du modèle de l’architecture fonctionnelle. Un bloc fonctionnel regroupe un ensemble de macro-fonctions susceptibles de subir des variations concomitantes.&#xD;&#xA;&#xD;&#xA;• La macro-fonction : est l’élément de troisième niveau de l'architecture fonctionnelle. Une macro-fonction est un regroupement de fonctions contribuant à une même finalité.&#xD;&#xA;&#xD;&#xA;• La fonction : est l’élément de quatrième niveau de l'architecture fonctionnelle. Une fonction est le niveau de structuration fonctionnelle le plus fin. Une fonction appartient à une et une seule macro fonction ou bloc fonctionnel.&#xD;&#xA;&#xD;&#xA;Compte tenu du niveau de découplage du SI du PAD, nous limiterons le niveau de finesse à la macro - fonction dont le niveau de richesse paraît suffisant pour déterminer les évolutions futures.&#xD;&#xA;">
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-5b2e04d481084534b25b23f8c6cf68f5"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffffff"
+      content="ARCHITECTURE FONCTIONNELLE EXISTANTE"
+      borderColor="#C0C0C0">
+    <bounds
+        x="408"
+        y="48"
+        width="719"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-9e3b0dcaab514725b51ed64d54318980"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#f8c491"
+      content="REFERENCE"
+      borderColor="#C0C0C0">
+    <bounds
+        x="1392"
+        y="156"
+        width="229"
+        height="1105"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-9560536eb9344004a21f63a0da0e4e95"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#0000ff"
+      fillColor="#c4c4f8"
+      content="PILOTAGE"
+      borderColor="#C0C0C0">
+    <bounds
+        x="78"
+        y="156"
+        width="1291"
+        height="277"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-4c345f78d0f44f398552899d7854d095"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#0000ff"
+      fillColor="#c4c4f8"
+      content="SUPPORT"
+      borderColor="#C0C0C0">
+    <bounds
+        x="77"
+        y="971"
+        width="1293"
+        height="289"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-39c60367b0f649a8a586ed85215da23d"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#8080c0"
+      borderColor="#000000"
+      content="Veille légale et règlementaire">
+    <bounds
+        x="108"
+        y="216"
+        width="348"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-cfb49fbc3db34aa0aa03a25462dd6d23"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#8080c0"
+      borderColor="#000000"
+      content="Suivi des performances">
+    <bounds
+        x="105"
+        y="276"
+        width="350"
+        height="132"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-403ae3bc53364b93a142b2dc4a281f22"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Pilotage budgétaire">
+      <bounds
+          x="24"
+          y="36"
+          width="288"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-64bf64c5a5f243cfb1090e4269872f1e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Suivi de l’activité">
+      <bounds
+          x="24"
+          y="84"
+          width="288"
+          height="36"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-489d6194830442ff8bfa6196bc2e760f"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#8080c0"
+      borderColor="#000000"
+      content="Management des risques">
+    <bounds
+        x="516"
+        y="216"
+        width="396"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-90eae2b2f38e413d9c507262fbe617f5"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#8080c0"
+      borderColor="#000000"
+      content="Audit Interne">
+    <bounds
+        x="516"
+        y="276"
+        width="396"
+        height="132"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-bd12f3687c9742f6964eb8fcc06a6551"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#8080c0"
+      borderColor="#000000"
+      content="Stratégie et prospection">
+    <bounds
+        x="996"
+        y="216"
+        width="342"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-0018eaedcc6d400bb39f08afaa215eb0"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#8080c0"
+      borderColor="#000000"
+      content="Statistiques">
+    <bounds
+        x="996"
+        y="276"
+        width="342"
+        height="132"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-effd3d86ea3a4b1983cea9cf8903c933"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        textAlignment="1"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Statistiques portuaires et tableaux de bord">
+      <bounds
+          x="24"
+          y="48"
+          width="300"
+          height="36"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-13e6b97d3dc64cf9957917c80d0970b7"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#0000ff"
+      fillColor="#c6f9f7"
+      content="OPERATIONNEL"
+      borderColor="#C0C0C0">
+    <bounds
+        x="78"
+        y="444"
+        width="1291"
+        height="517"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-5506a0c901994a03ac1e90d70ede4b9b"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#d5ff95"
+      content="ECHANGES"
+      borderColor="#C0C0C0">
+    <bounds
+        x="-240"
+        y="156"
+        width="301"
+        height="467"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-ed3a66f0af494f3caeda6b114aea5bc6"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#eec8fb"
+      content="MECANISMES GENERAUX"
+      borderColor="#C0C0C0">
+    <bounds
+        x="-240"
+        y="641"
+        width="301"
+        height="619"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-08e9c55d0df24948bb91fa63c60031d2"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#00eaea"
+      borderColor="#000000"
+      content="Gestion de la capitainerie et des opérations portuaires">
+    <bounds
+        x="105"
+        y="456"
+        width="472"
+        height="161"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-bdb6a83fd2d7406aa710dc689abb027e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion du traffic des navires&#xD;&#xA;">
+      <bounds
+          x="60"
+          y="60"
+          width="349"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-e1706807a5774fe498391b29bf1305f9"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion du trafic des marchandises&#xD;&#xA;&#xD;&#xA;">
+      <bounds
+          x="60"
+          y="108"
+          width="349"
+          height="36"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-b823e444e9ad405d9eb9786299b778bb"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#cc99ff"
+      borderColor="#000000"
+      content="Gestion SI">
+    <bounds
+        x="87"
+        y="1013"
+        width="334"
+        height="229"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-c334855b98024ea6a8330058abcc2862"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gouvernance du SI&#xD;&#xA;">
+      <bounds
+          x="24"
+          y="36"
+          width="289"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-32a707aadc134e01aee9a96137409d7b"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Sécurité  SI&#xD;&#xA;">
+      <bounds
+          x="24"
+          y="84"
+          width="289"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-0b107a4def1249a4b0edbd870db01598"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Production,&#xD;&#xA;exploitatiton,&#xD;&#xA;supervision SI&#xD;&#xA;">
+      <bounds
+          x="24"
+          y="144"
+          width="289"
+          height="61"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-7be33db9b678449796a65c65f088875f"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffffa2"
+      borderColor="#000000"
+      content="Gestion des canaux&#xD;&#xA;d’échanges">
+    <bounds
+        x="-219"
+        y="216"
+        width="256"
+        height="169"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-f61ef914b50f4f0197f548003353443b"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Internet, intranet">
+      <bounds
+          x="24"
+          y="60"
+          width="217"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-37f0282eb8f741329439418c238eabcf"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Papier, telephone, etc..">
+      <bounds
+          x="24"
+          y="108"
+          width="217"
+          height="37"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-5b815b38795348ca981bb6ea60f843b4"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffaad5"
+      borderColor="#000000"
+      content="Pistes d’audit">
+    <bounds
+        x="-219"
+        y="682"
+        width="256"
+        height="72"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-e6ea4895ae6841949355b17d3386d1e6"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des traces">
+      <bounds
+          x="24"
+          y="36"
+          width="181"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-f302317b05fe47a1b5f22176f36c73ef"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffb895"
+      borderColor="#000000"
+      content="Nomenclatures">
+    <bounds
+        x="1415"
+        y="228"
+        width="170"
+        height="96"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-9c1d39fd39784729a210473769cc070f"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffb895"
+      borderColor="#000000"
+      content="Catalogues">
+    <bounds
+        x="1415"
+        y="360"
+        width="170"
+        height="96"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-a7a29d0cc2e941d3838f6446f1332cde"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffb895"
+      borderColor="#000000"
+      content="Biens - Matériels">
+    <bounds
+        x="1404"
+        y="904"
+        width="170"
+        height="96"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-de376a1f03164a7fa49b6ea97cea9472"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffb895"
+      borderColor="#000000"
+      content="Tiers">
+    <bounds
+        x="1404"
+        y="1031"
+        width="170"
+        height="96"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-74ea2cc011b449c393b0f9ccb4cb9808"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffb895"
+      borderColor="#000000"
+      content="Structures">
+    <bounds
+        x="1404"
+        y="1152"
+        width="170"
+        height="96"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-e617fa8ab5524d8fa45a15553c100813"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#00eaea"
+      borderColor="#000000"
+      content="Gestion des infrastructures portuaires&#xD;&#xA;">
+    <bounds
+        x="105"
+        y="648"
+        width="472"
+        height="301"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-55990bd9f7424f39a8cca963f567ff8f"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des domaines portuaires">
+      <bounds
+          x="60"
+          y="36"
+          width="349"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-455df1043585437dabd9dec8e93947e0"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des terre-pleins et hangars&#xD;&#xA;&#xD;&#xA;">
+      <bounds
+          x="60"
+          y="84"
+          width="349"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-bc2e444d427746f29b7e8875ba8bc9e6"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des domaines&#xD;&#xA;">
+      <bounds
+          x="60"
+          y="131"
+          width="349"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-c62be0397e9240519978fe3b75017515"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des postes à quai">
+      <bounds
+          x="60"
+          y="167"
+          width="349"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-17e1f8de876e49efa8cf70fc32165683"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des parking">
+      <bounds
+          x="60"
+          y="203"
+          width="349"
+          height="38"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-2e48e5bcbceb49e2afefba00f4f31991"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des concessions">
+      <bounds
+          x="60"
+          y="251"
+          width="349"
+          height="38"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-fa5012bc7e714fdbb039edcef898c268"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#00eaea"
+      borderColor="#000000"
+      content="Gestion commerciale">
+    <bounds
+        x="912"
+        y="456"
+        width="385"
+        height="109"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-e65c2fa3cdb74361b2105c69e304457b"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Suivi dossier escale">
+      <bounds
+          x="24"
+          y="48"
+          width="337"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-1c4fe9e2fed049b5a8d525913b58cf57"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#00eaea"
+      borderColor="#000000"
+      content="Gestion des services annexes">
+    <bounds
+        x="912"
+        y="576"
+        width="385"
+        height="145"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-dc708f5e07d84b3b91f40aa970bb253f"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Fourniture d’eau et d’électricité">
+      <bounds
+          x="24"
+          y="36"
+          width="337"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-b3d70ed6a8734651b4c875ec52fd6796"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Vente de titres d’accès">
+      <bounds
+          x="24"
+          y="72"
+          width="337"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-027a6f8261794eeab8f65fb155fb82e3"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Location de matériels">
+      <bounds
+          x="24"
+          y="108"
+          width="337"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-b1759060c9554c4ab7a92f65e3166d49"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#00eaea"
+      borderColor="#000000"
+      content="Gestion de la clientèle">
+    <bounds
+        x="912"
+        y="732"
+        width="385"
+        height="217"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-5503180c75b542109b26ebe9c839182d"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des agréments">
+      <bounds
+          x="24"
+          y="36"
+          width="325"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-b068bedd394144499bee019a3f9b587e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des autorisations&#xD;&#xA;&#xD;&#xA;">
+      <bounds
+          x="24"
+          y="72"
+          width="325"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-8a37220a69694cd58b39ec0a9963dc22"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des cautions&#xD;&#xA;">
+      <bounds
+          x="24"
+          y="108"
+          width="325"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-c8a1121820f44e6ea59e3b05833bee63"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des contrats">
+      <bounds
+          x="24"
+          y="144"
+          width="325"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-23e8f33bf0134cb289ac2df892b5bd6e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des réclamations/contestations ">
+      <bounds
+          x="24"
+          y="180"
+          width="325"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-9dd79e975f8b45acb72760e22436f6aa"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#cc99ff"
+      borderColor="#000000"
+      content="Gestion financière">
+    <bounds
+        x="455"
+        y="1014"
+        width="433"
+        height="228"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-32dbc113cb51424cbc7a74c2a023030e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Comptabilité Générale&#xD;&#xA;">
+      <bounds
+          x="12"
+          y="33"
+          width="193"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-f46b72576978439f93ffedf63dfaf25c"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Comptabilité Fournisseur">
+      <bounds
+          x="12"
+          y="81"
+          width="193"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-454931f6e58d47eab62821fe9578d5fe"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Comptabilité Clients">
+      <bounds
+          x="12"
+          y="117"
+          width="193"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-a908a9824d4f4eceaa63fbf56d87f2b5"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Comptabilité Analytique">
+      <bounds
+          x="12"
+          y="156"
+          width="193"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-8e566ad304c1470c8c726cf2a2bf0a96"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Contrôle budgétaire&#xD;&#xA;">
+      <bounds
+          x="216"
+          y="33"
+          width="193"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-e7dc4db684fc4400beaac0421793f6f0"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion de la trésorerie&#xD;&#xA;">
+      <bounds
+          x="216"
+          y="81"
+          width="193"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-b1e7dfd5588347f2a8e28432da1527d6"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Recouvrement&#xD;&#xA;">
+      <bounds
+          x="216"
+          y="117"
+          width="193"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-51dcdf24403145b485a3e71a41ed18ab"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Facturation">
+      <bounds
+          x="216"
+          y="156"
+          width="193"
+          height="37"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-a1aa57b702994efbbd06779afba84a91"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#cc99ff"
+      borderColor="#000000"
+      content="Gestion des achats">
+    <bounds
+        x="911"
+        y="1014"
+        width="205"
+        height="97"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-1ddc750996b241a4b68b77afa1367608"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des achats&#xD;&#xA;">
+      <bounds
+          x="24"
+          y="36"
+          width="169"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-72a19799c1e142c8a0482def02fa8fd1"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des stocks">
+      <bounds
+          x="24"
+          y="72"
+          width="169"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-55c9c09c671c405e88edcbe3a1404c5d"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#cc99ff"
+      borderColor="#000000"
+      content="Moyens généraux">
+    <bounds
+        x="911"
+        y="1116"
+        width="205"
+        height="126"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-b970e6f6829a475796d638fd237ea09b"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Logistique&#xD;&#xA;">
+      <bounds
+          x="24"
+          y="24"
+          width="169"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-27f91585817e44e9ae6c867d7b6ad832"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des biens">
+      <bounds
+          x="24"
+          y="60"
+          width="169"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-280432bc264644cb8a3eedfe3087181e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des évènements">
+      <bounds
+          x="24"
+          y="96"
+          width="169"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-6fa2e5b1b1714bed8d67e48d0e6bfec5"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#cc99ff"
+      borderColor="#000000"
+      content="Gestion des&#xD;&#xA;Ressources&#xD;&#xA;Humaines">
+    <bounds
+        x="1139"
+        y="1013"
+        width="205"
+        height="229"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-967e5d53afd848aa9bc689ac66d8cd78"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des temps">
+      <bounds
+          x="24"
+          y="120"
+          width="169"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-3853146ed4f64c26ae9a4973f8445aa6"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion de la paie">
+      <bounds
+          x="24"
+          y="84"
+          width="169"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-79b03cd27f27449abe3190a047274642"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des talents">
+      <bounds
+          x="24"
+          y="156"
+          width="169"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-c96dd163525d4e90a0d4042289190d78"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion sociale, etc..">
+      <bounds
+          x="24"
+          y="192"
+          width="169"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-03040c2eed5c445db2294f486fa2c312"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffffa2"
+      borderColor="#000000"
+      content="Échanges internes">
+    <bounds
+        x="-219"
+        y="395"
+        width="256"
+        height="98"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-74ef7968f0d14a12a58067ebca134640"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Communication interne">
+      <bounds
+          x="24"
+          y="48"
+          width="217"
+          height="37"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-f646ecd8578a4e3b938907723026c4bf"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffffa2"
+      borderColor="#000000"
+      content="Échanges internes">
+    <bounds
+        x="-219"
+        y="503"
+        width="256"
+        height="99"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-f9e3203e35994099b87afbc4cef55d3f"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Communication externe">
+      <bounds
+          x="24"
+          y="48"
+          width="217"
+          height="37"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-fd04fff78a3b4679b0a858b1670ce210"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffaad5"
+      borderColor="#000000"
+      content="Controle des accès">
+    <bounds
+        x="-219"
+        y="778"
+        width="256"
+        height="96"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-1707f6f0cad24f29952c73ce694abb40"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Authentication&#xD;&#xA;Habitations">
+      <bounds
+          x="24"
+          y="36"
+          width="181"
+          height="49"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-998523b1178f4c4faea48c728b84729f"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffaad5"
+      borderColor="#000000"
+      content="GED">
+    <bounds
+        x="-219"
+        y="891"
+        width="256"
+        height="109"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-f6331b7c413c4f1da959a64eafe6d0a9"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Numerisation">
+      <bounds
+          x="36"
+          y="36"
+          width="181"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-ea0de10f2d4a462dace1aadfd898a411"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Stockage">
+      <bounds
+          x="36"
+          y="72"
+          width="181"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-73ee805da90347cc9a425dcd7b599ac8"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffaad5"
+      borderColor="#000000"
+      content="Editique">
+    <bounds
+        x="-219"
+        y="1018"
+        width="256"
+        height="109"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-827ebe50684c4321824822ef3cb853b5"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des templates">
+      <bounds
+          x="36"
+          y="36"
+          width="181"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-36a78fe0499e4d939d9c27f8aaa29d61"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des impressions">
+      <bounds
+          x="36"
+          y="72"
+          width="181"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-b9a707aa91f046d88cea1698820e9ade"
+      font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffaad5"
+      borderColor="#000000"
+      content="Archivage">
+    <bounds
+        x="-219"
+        y="1137"
+        width="256"
+        height="109"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-a3db12971ebc4ee39e9994fab27b616f"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Gestion des locaux d’archivage">
+      <bounds
+          x="36"
+          y="36"
+          width="181"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-4299345311af4a129574ccbdf1857fdf"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#6f0000"
+        fillColor="#ffcece"
+        borderColor="#000000"
+        content="Indexiation des documents">
+      <bounds
+          x="36"
+          y="72"
+          width="181"
+          height="25"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-6a7d3a5bab8146b593dbebef20d1b1bd"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Modélisateur : INW PARTNERS&#xD;&#xA;Validateur : PAD&#xD;&#xA;Date de validation : 15/09/2020"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="-240"
+        y="1272"
+        width="424"
+        height="240"/>
+  </children>
+</canvas:CanvasModel>
