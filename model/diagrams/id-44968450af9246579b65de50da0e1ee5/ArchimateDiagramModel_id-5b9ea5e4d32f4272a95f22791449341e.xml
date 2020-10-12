@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les passagers Dakar-Ziguinchor"
-    id="id-5b9ea5e4d32f4272a95f22791449341e">
+    id="id-5b9ea5e4d32f4272a95f22791449341e"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-664e76f63fba41ba8121c5b0285c5da8">

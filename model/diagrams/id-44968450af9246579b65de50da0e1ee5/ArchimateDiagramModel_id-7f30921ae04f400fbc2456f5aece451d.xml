@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les mini croisières"
-    id="id-7f30921ae04f400fbc2456f5aece451d">
+    id="id-7f30921ae04f400fbc2456f5aece451d"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7ecac84e467e4770bd98392430cd20ee">
