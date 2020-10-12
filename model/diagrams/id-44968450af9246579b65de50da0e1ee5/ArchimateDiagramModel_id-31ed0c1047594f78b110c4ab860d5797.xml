@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les passagers Dakar-Gorée"
-    id="id-31ed0c1047594f78b110c4ab860d5797"/>
+    id="id-31ed0c1047594f78b110c4ab860d5797"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-86954a5e0f6148beb292bc4163e6fef9">
+    <bounds
+        x="308"
+        y="134"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-8cb4c2404f6b4b67acb072346cac7a13.xml#id-8cb4c2404f6b4b67acb072346cac7a13"/>
+  </children>
+</archimate:ArchimateDiagramModel>
