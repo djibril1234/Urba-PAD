@@ -65,7 +65,7 @@
       id="id-6a3ffadc31c24e608b2d0cbc3249acf7"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#80bfff"
-      content="Management des Normes"
+      content="Management des systèmes intégrés&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="273"
@@ -78,8 +78,8 @@
       id="id-31c47bdab4d64288bc0044f27eb113ec"
       fillColor="#ffffbf">
     <bounds
-        x="285"
-        y="370"
+        x="284"
+        y="350"
         width="240"
         height="55"/>
     <referencedModel
@@ -91,8 +91,8 @@
       id="id-d8cd47af76934a6f818eabe3a755a346"
       fillColor="#ffffbf">
     <bounds
-        x="285"
-        y="466"
+        x="284"
+        y="417"
         width="240"
         height="55"/>
     <referencedModel
@@ -117,7 +117,7 @@
       id="id-e5ebd858fff54316a1ff3e97373144da"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#80bfff"
-      content="Audit interne et&#xD;&#xA;management des risques"
+      content="Audit Interne&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="884"
@@ -143,12 +143,12 @@
       id="id-e926763fd3514ec8a41451d7add55b6c"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#80bfff"
-      content="Veille légale et règlementaire"
+      content="Veille et suivi des obligations de conformité&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="1545"
         y="298"
-        width="325"
+        width="377"
         height="109"/>
   </children>
   <children
@@ -159,7 +159,7 @@
       content="Gestion et suivi des performances"
       borderColor="#C0C0C0">
     <bounds
-        x="1893"
+        x="1929"
         y="295"
         width="361"
         height="253"/>
@@ -169,12 +169,12 @@
       id="id-e67a17fd4c7d496594b32b6bc474da5b"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#80bfff"
-      content="Stratégie"
+      content="Communication"
       borderColor="#C0C0C0">
     <bounds
         x="1545"
         y="418"
-        width="325"
+        width="377"
         height="127"/>
   </children>
   <children
@@ -208,8 +208,8 @@
       id="id-7efe5bc82d874c7681119579bcfc7dc9"
       fillColor="#ffffbf">
     <bounds
-        x="915"
-        y="370"
+        x="912"
+        y="417"
         width="246"
         height="55"/>
     <referencedModel
@@ -221,8 +221,8 @@
       id="id-5b98cdb34801490bb13bc97aea547808"
       fillColor="#ffffbf">
     <bounds
-        x="915"
-        y="454"
+        x="284"
+        y="483"
         width="240"
         height="55"/>
     <referencedModel
@@ -273,10 +273,10 @@
       id="id-34fd0c7c05a941f19a2b7c8d0e6bd067"
       fillColor="#ffffbf">
     <bounds
-        x="1581"
-        y="343"
-        width="240"
-        height="55"/>
+        x="1585"
+        y="359"
+        width="284"
+        height="37"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-53bc04e612ee415981e15dcc804ae57e.xml#id-53bc04e612ee415981e15dcc804ae57e"/>
@@ -312,7 +312,7 @@
       id="id-5a4bc75e37914e9eb367c22cacd5c0c4"
       fillColor="#ffffbf">
     <bounds
-        x="1917"
+        x="1953"
         y="325"
         width="288"
         height="35"/>
@@ -325,7 +325,7 @@
       id="id-f4edeb281e154a939c3400b4ca63c85b"
       fillColor="#ffffbf">
     <bounds
-        x="1917"
+        x="1953"
         y="377"
         width="288"
         height="41"/>
@@ -338,7 +338,7 @@
       id="id-c0b57d6f88414e5f8779009abc2a7a26"
       fillColor="#ffffbf">
     <bounds
-        x="1917"
+        x="1953"
         y="433"
         width="288"
         height="37"/>
@@ -351,7 +351,7 @@
       id="id-49f4dbdf78d2422caf37a7aedd3ebe3b"
       fillColor="#ffffbf">
     <bounds
-        x="1917"
+        x="1953"
         y="487"
         width="288"
         height="47"/>
@@ -364,7 +364,7 @@
       id="id-c90ee8514aa44c339be9d8b7a0da0456"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#0482ff"
-      content="Gestion de la clientèle"
+      content="Gestion de la clientèle&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="258"
@@ -378,7 +378,7 @@
       fillColor="#ffffbf">
     <bounds
         x="282"
-        y="705"
+        y="719"
         width="243"
         height="32"/>
     <referencedModel
@@ -391,7 +391,7 @@
       fillColor="#ffffbf">
     <bounds
         x="282"
-        y="743"
+        y="768"
         width="243"
         height="34"/>
     <referencedModel
@@ -404,7 +404,7 @@
       fillColor="#ffffbf">
     <bounds
         x="282"
-        y="784"
+        y="805"
         width="243"
         height="33"/>
     <referencedModel
@@ -417,9 +417,9 @@
       fillColor="#ffffbf">
     <bounds
         x="282"
-        y="836"
+        y="850"
         width="243"
-        height="39"/>
+        height="29"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-39d99dea7c2c43eab778001cd518da83.xml#id-39d99dea7c2c43eab778001cd518da83"/>
@@ -455,7 +455,7 @@
       id="id-1ca19dc93f404f6bb6d30b2df04b361f"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb0b0"
-      content="Gestion des infrastructures et&#xD;&#xA;domaines portuaires"
+      content="Gestion des infrastructures et domaines portuaires&#xD;&#xA;&#xD;&#xA;"
       borderColor="#c0c0c0">
     <bounds
         x="585"
@@ -467,8 +467,8 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-6a2c730758ac4d88b41d015dbf2a960a"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#0482ff"
-      content="Gestion du trafic passager"
+      fillColor="#ffb0b0"
+      content="Service aux passagers&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="886"
@@ -559,7 +559,7 @@
       id="id-a43a0ac3263b48dab9956b4f6866ae6e"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb0b0"
-      content="Gestion des escales navires"
+      content="Services aux navires&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="1211"
@@ -598,7 +598,7 @@
       id="id-6a44f79504334e50a4833f391535d6a7"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb0b0"
-      content="Gestion des marchandises"
+      content="Services aux marchandises&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="1211"
@@ -702,7 +702,7 @@
       id="id-11f85bf96fef4d958fb4e4408d483d79"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffb0b0"
-      content="Gestion des services annexes"
+      content="Service aux usagers&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="1509"
@@ -773,7 +773,7 @@
         x="252"
         y="1092"
         width="264"
-        height="265"/>
+        height="221"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -794,7 +794,7 @@
       fillColor="#ffffbf">
     <bounds
         x="264"
-        y="1214"
+        y="1195"
         width="229"
         height="25"/>
     <referencedModel
@@ -807,7 +807,7 @@
       fillColor="#ffffbf">
     <bounds
         x="264"
-        y="1250"
+        y="1228"
         width="229"
         height="28"/>
     <referencedModel
@@ -820,7 +820,7 @@
       fillColor="#ffffbf">
     <bounds
         x="264"
-        y="1286"
+        y="1272"
         width="229"
         height="25"/>
     <referencedModel
@@ -832,13 +832,13 @@
       id="id-de046ddce6b14adbaf333881d56a4b3f"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cae4ff"
-      content="Aide à la navigation"
+      content="Surveillance de la sécurité, de la sûreté et de l’environnement portuaire&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="252"
-        y="1368"
+        y="1317"
         width="264"
-        height="193"/>
+        height="245"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -884,7 +884,7 @@
       id="id-090b6ecb8c214a6a8913bb3bfbd9d6e4"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cae4ff"
-      content="Comptabilité Finance"
+      content="Gestion financière&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="532"
@@ -1131,7 +1131,7 @@
       id="id-5e5e20461d444130930b742b6b2be7c2"
       font="1|Segoe UI|13.875|1|WINDOWS|1|-37|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#cae4ff"
-      content="Services d’information"
+      content="Gestion des Systèmes d’Information&#xD;&#xA;"
       borderColor="#C0C0C0">
     <bounds
         x="1935"
@@ -1249,9 +1249,9 @@
       fillColor="#ffffbf">
     <bounds
         x="264"
-        y="1166"
+        y="1164"
         width="229"
-        height="37"/>
+        height="25"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-6e9df96dd0f7448fbbc81e97e72d998a.xml#id-6e9df96dd0f7448fbbc81e97e72d998a"/>
