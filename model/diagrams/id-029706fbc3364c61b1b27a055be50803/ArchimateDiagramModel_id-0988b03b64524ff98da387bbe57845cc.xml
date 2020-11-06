@@ -391,4 +391,16 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-b7019df0040e43439d083541426eb425.xml#id-b7019df0040e43439d083541426eb425"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b389bf5fb73a4f76a3b8cfabde9ce2e5"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE FONCTIONNELLE - Gestion financière">
+    <bounds
+        x="168"
+        y="24"
+        width="758"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>

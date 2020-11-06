@@ -39,4 +39,16 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-3178d638b4274c4995b1740432b79fea.xml#id-3178d638b4274c4995b1740432b79fea"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-223511311cbc4da0a172c6431ddbd6c2"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE FONCTIONNELLE - Moyens généraux">
+    <bounds
+        x="203"
+        y="24"
+        width="601"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>

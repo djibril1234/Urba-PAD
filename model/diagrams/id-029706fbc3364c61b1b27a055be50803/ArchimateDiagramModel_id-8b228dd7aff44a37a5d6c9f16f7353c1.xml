@@ -81,4 +81,16 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-ef908b1af3be4b7b9b775a6d8d955f50.xml#id-ef908b1af3be4b7b9b775a6d8d955f50"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-88d716e9304f4c5e8c1fbe5b527cbc79"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE FONCTIONNELLE - Gestion des achats">
+    <bounds
+        x="142"
+        y="34"
+        width="711"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>
