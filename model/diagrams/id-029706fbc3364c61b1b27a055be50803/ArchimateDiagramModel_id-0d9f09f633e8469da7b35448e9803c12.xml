@@ -46,9 +46,9 @@
       textAlignment="1"
       content="CARTOGRAPHIE FONCTIONNELLE - Moyens généraux">
     <bounds
-        x="203"
+        x="108"
         y="24"
-        width="601"
+        width="696"
         height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
