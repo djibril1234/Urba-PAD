@@ -221,4 +221,15 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-5e68d22b697e411387d698ff00bdbae8.xml#id-5e68d22b697e411387d698ff00bdbae8"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9092b0be82c34e789bf7f958ce23d8f5"
+      textAlignment="1"
+      content="Tu as oubli de mettre libelle des liens ici">
+    <bounds
+        x="394"
+        y="66"
+        width="185"
+        height="55"/>
+  </children>
 </archimate:ArchimateDiagramModel>
