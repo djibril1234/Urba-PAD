@@ -83,4 +83,16 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-f2217a19d2ef4eddbd814a9a69c73f15.xml#id-f2217a19d2ef4eddbd814a9a69c73f15"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d0ab313e1ec842bc871e778444312e49"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE FONCTIONNELLE - Gestion SI">
+    <bounds
+        x="228"
+        y="24"
+        width="601"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>

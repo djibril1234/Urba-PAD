@@ -8,8 +8,8 @@
       id="id-d49e905f5b7a40238c8e3bdc12a6cf50"
       targetConnections="id-4ca3e1f56c0344bf984ea34c3b28228c">
     <bounds
-        x="168"
-        y="132"
+        x="132"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -21,8 +21,8 @@
       id="id-43b2110f36c64b1ca4b545acb65336f0"
       targetConnections="id-6722ee4e08cc4528a5c61e71471fc32c id-aeef38853d8548bfb4c74564081f4748">
     <bounds
-        x="336"
-        y="132"
+        x="300"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -34,8 +34,8 @@
       id="id-9faab561ca2c4293be312b0e7c541703"
       targetConnections="id-1f1d6ccd84f04d0da4ee9d450521149d id-1e068ffabacb4b9a96916d78661b744e">
     <bounds
-        x="516"
-        y="132"
+        x="480"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -47,8 +47,8 @@
       id="id-47b98fd21cf84c5fb33353f416182b22"
       targetConnections="id-92aad50e544149dfa4b761edf433aff8">
     <bounds
-        x="696"
-        y="132"
+        x="660"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -95,8 +95,8 @@
           href="AssignmentRelationship_id-369f1213736e43c1b41e94cf0e2bc990.xml#id-369f1213736e43c1b41e94cf0e2bc990"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="396"
+        x="120"
+        y="504"
         width="662"
         height="55"/>
     <archimateElement
@@ -117,8 +117,8 @@
           href="ServingRelationship_id-4e1f761cc92746149d4508f72f586a0e.xml#id-4e1f761cc92746149d4508f72f586a0e"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="288"
+        x="120"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -139,8 +139,8 @@
           href="ServingRelationship_id-b0cdbd671fe74890bad25636d0028790.xml#id-b0cdbd671fe74890bad25636d0028790"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="288"
+        x="300"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -161,8 +161,8 @@
           href="ServingRelationship_id-d3ed058c25824ce3b08c41227a16ffa8.xml#id-d3ed058c25824ce3b08c41227a16ffa8"/>
     </sourceConnections>
     <bounds
-        x="528"
-        y="288"
+        x="492"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -183,8 +183,8 @@
           href="ServingRelationship_id-7184a77f987942e5ab784d606a6eeabd.xml#id-7184a77f987942e5ab784d606a6eeabd"/>
     </sourceConnections>
     <bounds
-        x="696"
-        y="288"
+        x="660"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -213,12 +213,24 @@
           href="ServingRelationship_id-4d0f819e802e4422957543caed626bdb.xml#id-4d0f819e802e4422957543caed626bdb"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="12"
+        x="300"
+        y="120"
         width="300"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-5e68d22b697e411387d698ff00bdbae8.xml#id-5e68d22b697e411387d698ff00bdbae8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-33ef5fa1d850400c8cf157d8bedaa8c1"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE FONCTIONNELLE - Gestion des ressources humaines">
+    <bounds
+        x="95"
+        y="12"
+        width="758"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
