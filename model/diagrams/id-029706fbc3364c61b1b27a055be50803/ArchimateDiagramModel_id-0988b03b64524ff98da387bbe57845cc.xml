@@ -332,9 +332,9 @@
     </sourceConnections>
     <bounds
         x="960"
-        y="230"
+        y="216"
         width="120"
-        height="83"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-424cd04c1f06430eb314d2e61cd1b9fe.xml#id-424cd04c1f06430eb314d2e61cd1b9fe"/>
@@ -384,9 +384,9 @@
     </sourceConnections>
     <bounds
         x="1128"
-        y="228"
-        width="120"
-        height="85"/>
+        y="216"
+        width="121"
+        height="97"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-b7019df0040e43439d083541426eb425.xml#id-b7019df0040e43439d083541426eb425"/>
