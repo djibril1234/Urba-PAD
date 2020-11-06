@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer le rapprochement bancaire"
-    id="id-5289b3be00da441e8ddbbcbb1e6e6160"/>
+    id="id-5289b3be00da441e8ddbbcbb1e6e6160">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6a186a645f404d41aab6b65f3c3cd925">
+    <bounds
+        x="208"
+        y="118"
+        width="633"
+        height="339"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-9b276f4da79f4e389a98a193773b50c6.xml#id-9b276f4da79f4e389a98a193773b50c6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

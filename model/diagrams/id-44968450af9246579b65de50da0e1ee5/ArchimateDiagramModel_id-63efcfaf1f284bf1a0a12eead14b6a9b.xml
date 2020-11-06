@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les avoirs"
-    id="id-63efcfaf1f284bf1a0a12eead14b6a9b"/>
+    id="id-63efcfaf1f284bf1a0a12eead14b6a9b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ca4913782ac746b0ba824cc673e367e5">
+    <bounds
+        x="220"
+        y="91"
+        width="645"
+        height="294"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-2220ab01191b4a8abd4bc12d150b906a.xml#id-2220ab01191b4a8abd4bc12d150b906a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

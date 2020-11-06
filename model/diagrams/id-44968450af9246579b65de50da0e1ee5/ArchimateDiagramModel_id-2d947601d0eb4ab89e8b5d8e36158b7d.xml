@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gérer les exonérations"
-    id="id-2d947601d0eb4ab89e8b5d8e36158b7d"/>
+    id="id-2d947601d0eb4ab89e8b5d8e36158b7d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-966a208d87dc410dabbefb2ff3529da9">
+    <bounds
+        x="246"
+        y="93"
+        width="643"
+        height="316"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-2a5b475f19d14b0b8095384f4577648a.xml#id-2a5b475f19d14b0b8095384f4577648a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
