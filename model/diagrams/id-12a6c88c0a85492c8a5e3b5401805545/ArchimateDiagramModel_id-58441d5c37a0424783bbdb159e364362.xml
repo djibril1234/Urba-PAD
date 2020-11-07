@@ -28,8 +28,8 @@
           href="FlowRelationship_id-6b2213853d8b47e4839855d26ca0986d.xml#id-6b2213853d8b47e4839855d26ca0986d"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="102"
+        x="264"
+        y="228"
         width="325"
         height="151"/>
     <children
@@ -53,8 +53,8 @@
       id="id-28c7e070e5ba41848d2992bcf0af20d3"
       targetConnections="id-5d02b7d76326465b84882493bdc1f33e">
     <bounds
-        x="612"
-        y="384"
+        x="708"
+        y="432"
         width="109"
         height="79"/>
     <archimateElement
@@ -66,8 +66,8 @@
       id="id-5c508a9ec18e41e8a4174ad4b80ca3e0"
       targetConnections="id-b2ccb278635948f28adfe344d74c6a69">
     <bounds
-        x="216"
-        y="444"
+        x="252"
+        y="480"
         width="121"
         height="85"/>
     <archimateElement
@@ -87,8 +87,8 @@
           href="AssociationRelationship_id-0a9c1b06a34e4f10be98b0db680efedc.xml#id-0a9c1b06a34e4f10be98b0db680efedc"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="354"
+        x="108"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -108,8 +108,8 @@
           href="AssociationRelationship_id-e65318b2f08343648b05acc96d9f4564.xml#id-e65318b2f08343648b05acc96d9f4564"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="408"
+        x="469"
+        y="474"
         width="120"
         height="55"/>
     <archimateElement
@@ -130,8 +130,8 @@
           href="FlowRelationship_id-c97e676f20d24d2880e685722acb061e.xml#id-c97e676f20d24d2880e685722acb061e"/>
     </sourceConnections>
     <bounds
-        x="660"
-        y="102"
+        x="852"
+        y="216"
         width="121"
         height="91"/>
     <archimateElement
@@ -151,12 +151,24 @@
           href="AssociationRelationship_id-416576881ee34f8ba030721e1759121b.xml#id-416576881ee34f8ba030721e1759121b"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="210"
+        x="708"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-c2f3b7d1ee0c4192bd70c3f43a7199a1.xml#id-c2f3b7d1ee0c4192bd70c3f43a7199a1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4f3da00c27bb4941b7823f04b2079cc9"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE APPLICATIVE - POINT DE VUE DELTA RH&#xD;&#xA;">
+    <bounds
+        x="168"
+        y="60"
+        width="757"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

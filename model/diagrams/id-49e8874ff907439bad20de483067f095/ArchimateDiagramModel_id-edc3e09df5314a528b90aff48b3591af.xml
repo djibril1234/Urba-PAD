@@ -102,4 +102,16 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-266c3bc40e744523ba1e1fed39b5b077.xml#id-266c3bc40e744523ba1e1fed39b5b077"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-47346676018844ee90d331cdd02fb610"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE VTS">
+    <bounds
+        x="168"
+        y="24"
+        width="817"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>

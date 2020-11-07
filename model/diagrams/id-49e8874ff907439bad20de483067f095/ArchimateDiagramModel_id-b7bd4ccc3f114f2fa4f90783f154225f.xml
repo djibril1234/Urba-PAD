@@ -8,8 +8,8 @@
       id="id-7cc7382f82da46f9bb0c71eebda23d57"
       targetConnections="id-a5520345cf764f8f8c1412a2ec1fabce id-8c926b237d5c42c1977c6001342d35e4">
     <bounds
-        x="276"
-        y="96"
+        x="288"
+        y="120"
         width="358"
         height="107"/>
     <archimateElement
@@ -101,5 +101,17 @@
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-76703dd3019d48899862db28df66a7a1.xml#id-76703dd3019d48899862db28df66a7a1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b2246e615a1d4843a05aff8b2b4bf155"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE SAGE X3">
+    <bounds
+        x="120"
+        y="48"
+        width="817"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

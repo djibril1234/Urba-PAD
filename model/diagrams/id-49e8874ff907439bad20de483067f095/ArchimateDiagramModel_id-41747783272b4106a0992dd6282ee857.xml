@@ -8,8 +8,8 @@
       id="id-36ffe7f97c4b4b16b95c2edb651ed0ed"
       targetConnections="id-76f5889767ad4b03bdad6b2f6825be7f id-5701190b4180419980f32d1a012cebf5">
     <bounds
-        x="348"
-        y="108"
+        x="360"
+        y="132"
         width="377"
         height="101"/>
     <archimateElement
@@ -31,7 +31,7 @@
     </sourceConnections>
     <bounds
         x="372"
-        y="276"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -52,8 +52,8 @@
           href="ServingRelationship_id-06901377c43645a197cbf1c867e36160.xml#id-06901377c43645a197cbf1c867e36160"/>
     </sourceConnections>
     <bounds
-        x="605"
-        y="276"
+        x="600"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -74,7 +74,7 @@
     </sourceConnections>
     <bounds
         x="372"
-        y="396"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -101,5 +101,17 @@
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-cdbb6b55f0e643d79f42da447d66cd28.xml#id-cdbb6b55f0e643d79f42da447d66cd28"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f2accd4f04b049a3b13f69576b9aeace"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE SAGE XRT&#xD;&#xA;">
+    <bounds
+        x="156"
+        y="36"
+        width="817"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

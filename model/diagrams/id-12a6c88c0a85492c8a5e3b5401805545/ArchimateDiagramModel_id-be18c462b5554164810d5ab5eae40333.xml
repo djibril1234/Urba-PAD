@@ -18,8 +18,8 @@
           href="FlowRelationship_id-f0e0a6390e5f40f6860f1a153c7300ef.xml#id-f0e0a6390e5f40f6860f1a153c7300ef"/>
     </sourceConnections>
     <bounds
-        x="600"
-        y="132"
+        x="624"
+        y="219"
         width="409"
         height="157"/>
     <children
@@ -58,8 +58,8 @@
           href="FlowRelationship_id-13a1fa3dd4b6499cab11611db78eee68.xml#id-13a1fa3dd4b6499cab11611db78eee68"/>
     </sourceConnections>
     <bounds
-        x="240"
-        y="132"
+        x="216"
+        y="228"
         width="157"
         height="139"/>
     <archimateElement
@@ -79,8 +79,8 @@
           href="AssociationRelationship_id-4b9b43531d7c445faab9cf71f4673da3.xml#id-4b9b43531d7c445faab9cf71f4673da3"/>
     </sourceConnections>
     <bounds
-        x="456"
-        y="96"
+        x="468"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -100,12 +100,24 @@
           href="AssociationRelationship_id-b387e14254d844508bbf8053369bad3c.xml#id-b387e14254d844508bbf8053369bad3c"/>
     </sourceConnections>
     <bounds
-        x="432"
-        y="276"
+        x="456"
+        y="375"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-0ddc8944334a4b078f2fc402f6693c10.xml#id-0ddc8944334a4b078f2fc402f6693c10"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e7d4e161f15649a49686d490a5614da0"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE APPLICATIVE - POINT DE VUE VTS&#xD;&#xA;">
+    <bounds
+        x="216"
+        y="60"
+        width="709"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
