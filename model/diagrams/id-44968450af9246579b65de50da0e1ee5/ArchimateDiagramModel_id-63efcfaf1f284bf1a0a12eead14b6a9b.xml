@@ -1,18 +1,42 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avoirs"
+    name="Gérer les avoirs"
     id="id-63efcfaf1f284bf1a0a12eead14b6a9b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ca4913782ac746b0ba824cc673e367e5">
     <bounds
-        x="220"
-        y="91"
+        x="264"
+        y="168"
         width="645"
         height="294"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-85f7a978dcce4ae988ca77a1e8104a09">
+      <bounds
+          x="264"
+          y="132"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-2220ab01191b4a8abd4bc12d150b906a.xml#id-2220ab01191b4a8abd4bc12d150b906a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-57317022485d4c4ebbac8d766e304f1a"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LES AVOIRS">
+    <bounds
+        x="276"
+        y="48"
+        width="709"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,18 +1,42 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Annulations de facture"
+    name="Gérer les annulations de facture"
     id="id-372335711bdc4689b695a794d746c098">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-984e24f336934decaf8963dfb4d8aa2a">
     <bounds
-        x="196"
-        y="94"
+        x="192"
+        y="168"
         width="957"
         height="327"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-7d4e88595761484d9f762add97d65925">
+      <bounds
+          x="432"
+          y="96"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-39ecaff05d034d1dafb58db1ded8635f.xml#id-39ecaff05d034d1dafb58db1ded8635f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a437e7df6f804a08b5bbddd665cc702f"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LES ANNULATIONS DE FACTURE">
+    <bounds
+        x="204"
+        y="72"
+        width="913"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

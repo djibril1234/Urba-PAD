@@ -1,18 +1,42 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Exonérations"
+    name="Gérer les éxonérations"
     id="id-2d947601d0eb4ab89e8b5d8e36158b7d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-966a208d87dc410dabbefb2ff3529da9">
     <bounds
-        x="246"
-        y="93"
+        x="264"
+        y="156"
         width="643"
         height="316"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-de90cd07cecd4c5ca26de0f13b3b3149">
+      <bounds
+          x="276"
+          y="108"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-2a5b475f19d14b0b8095384f4577648a.xml#id-2a5b475f19d14b0b8095384f4577648a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ee6efcfa97c445eaa8c61365a3feb39a"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LES EXONERATIONS">
+    <bounds
+        x="216"
+        y="60"
+        width="819"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

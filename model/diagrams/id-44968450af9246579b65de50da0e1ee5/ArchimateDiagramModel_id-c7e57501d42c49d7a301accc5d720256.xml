@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturation au comptant"
+    name="Gérer la facturation au comptant"
     id="id-c7e57501d42c49d7a301accc5d720256">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -66,6 +66,18 @@
           y="24"
           width="163"
           height="124"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-c51eb094f9b0438e801588800012f128">
+        <bounds
+            x="24"
+            y="48"
+            width="108"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-16f5155c98174eab92afd9b39cf2e77e.xml#id-16f5155c98174eab92afd9b39cf2e77e"/>
@@ -88,6 +100,18 @@
           y="24"
           width="157"
           height="124"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-726882c19f3c403485152cc613dbd90c">
+        <bounds
+            x="24"
+            y="48"
+            width="108"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-6e18cb5956914344875410a47aca7a68.xml#id-6e18cb5956914344875410a47aca7a68"/>
@@ -101,6 +125,18 @@
           y="24"
           width="157"
           height="124"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-9ac8e6b7371f4f8faf319ce84c5b21d4">
+        <bounds
+            x="24"
+            y="48"
+            width="108"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-e110e3e8a7cf466180d671bff9866e50.xml#id-e110e3e8a7cf466180d671bff9866e50"/>
@@ -108,5 +144,17 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-8364747daac74a439194a966d029466d.xml#id-8364747daac74a439194a966d029466d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1efe7022e770481b95301b026caaf884"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LA FACTURATION AU COMPTANT&#xD;&#xA;">
+    <bounds
+        x="108"
+        y="72"
+        width="949"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

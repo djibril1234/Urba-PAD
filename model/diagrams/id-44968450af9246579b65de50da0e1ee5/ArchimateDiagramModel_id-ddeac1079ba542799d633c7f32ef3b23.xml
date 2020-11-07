@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Marchés et Contrats"
+    name="Gérer les marchés et contrats"
     id="id-ddeac1079ba542799d633c7f32ef3b23">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -55,7 +55,7 @@
         x="132"
         y="168"
         width="901"
-        height="169"/>
+        height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cde569a7ed9742b0b1993461210f0261"
@@ -73,7 +73,7 @@
           x="19"
           y="30"
           width="133"
-          height="121"/>
+          height="139"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-855279eb02624b9fbaf176166857a85f.xml#id-855279eb02624b9fbaf176166857a85f"/>
@@ -95,7 +95,7 @@
           x="199"
           y="30"
           width="133"
-          height="121"/>
+          height="139"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-027f327debb44faea0a779f9bf3fabb3.xml#id-027f327debb44faea0a779f9bf3fabb3"/>
@@ -117,7 +117,7 @@
           x="379"
           y="30"
           width="133"
-          height="121"/>
+          height="139"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-b81f5fbcf8914ae3883e1f2fee7d2780.xml#id-b81f5fbcf8914ae3883e1f2fee7d2780"/>
@@ -139,7 +139,7 @@
           x="559"
           y="30"
           width="133"
-          height="121"/>
+          height="139"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-b64ec960d3ea4326a36d9cd1c6b52d6c.xml#id-b64ec960d3ea4326a36d9cd1c6b52d6c"/>
@@ -152,7 +152,19 @@
           x="739"
           y="30"
           width="145"
-          height="121"/>
+          height="139"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-86dd157fe22a42dc8c2705aeb3d4b97b">
+        <bounds
+            x="12"
+            y="72"
+            width="120"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-12b66ee6a81f451bb6b1c4367f8faa68.xml#id-12b66ee6a81f451bb6b1c4367f8faa68"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-766f81b7bd93416586a176a6b83e5483.xml#id-766f81b7bd93416586a176a6b83e5483"/>
@@ -160,5 +172,17 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-419db803cae846b5bfd38da6b9dd085c.xml#id-419db803cae846b5bfd38da6b9dd085c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3d6c5ca9df404f718eb726eb0bea844b"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LES MARCHES ET CONTRATS">
+    <bounds
+        x="168"
+        y="60"
+        width="901"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

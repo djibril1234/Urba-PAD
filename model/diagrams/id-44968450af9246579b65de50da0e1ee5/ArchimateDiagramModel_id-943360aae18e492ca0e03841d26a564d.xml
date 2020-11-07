@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recrutements"
+    name="Gérer les recrutements"
     id="id-943360aae18e492ca0e03841d26a564d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -34,8 +34,8 @@
           href="CompositionRelationship_id-4e1998883c5c49bea1a05f7938beb2cc.xml#id-4e1998883c5c49bea1a05f7938beb2cc"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="120"
+        x="360"
+        y="180"
         width="541"
         height="169"/>
     <children
@@ -98,5 +98,17 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-06f6d204dd4f49df8bb9311385a6d039.xml#id-06f6d204dd4f49df8bb9311385a6d039"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6062438bed2f45c69245f90a9ec413ed"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LES RECRUTEMENTS&#xD;&#xA;">
+    <bounds
+        x="228"
+        y="60"
+        width="793"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

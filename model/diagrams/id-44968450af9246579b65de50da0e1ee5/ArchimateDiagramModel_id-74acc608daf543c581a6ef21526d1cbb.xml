@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestion de la trésorerie"
+    name="Gérer la trésorerie"
     id="id-74acc608daf543c581a6ef21526d1cbb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -91,5 +91,17 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-cf1ab72ff5b944f48a2a17d67adb0751.xml#id-cf1ab72ff5b944f48a2a17d67adb0751"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c6275be6803e40998cac11053e5539c2"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LA TRESORERIE">
+    <bounds
+        x="211"
+        y="60"
+        width="726"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
