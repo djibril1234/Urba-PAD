@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer la facturation à terme"
+    name="Facturation à terme"
     id="id-d10a91be7fe84abd92aab4c979f9270b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -110,18 +110,6 @@
           y="29"
           width="157"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-1c4d9674d000404a8dab2b1cea8578c6">
-        <bounds
-            x="24"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-60797e9fa62d4cfc9dcb35b3318f815d.xml#id-60797e9fa62d4cfc9dcb35b3318f815d"/>
@@ -144,18 +132,6 @@
           y="29"
           width="145"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-b778a28ce9ad4458a782b888408879e6">
-        <bounds
-            x="12"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-e07cb5e44f26497388c4f8b974ac76aa.xml#id-e07cb5e44f26497388c4f8b974ac76aa"/>
@@ -178,18 +154,6 @@
           y="29"
           width="133"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-63c01dedd7cf4b65a138a30ca7335c26">
-        <bounds
-            x="12"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-c20942ebe6fd4ab69e31d89d49200e2c.xml#id-c20942ebe6fd4ab69e31d89d49200e2c"/>
@@ -212,18 +176,6 @@
           y="29"
           width="157"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-1fd97464e9704fea96e92643941a7898">
-        <bounds
-            x="24"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-f6d24f71296247c9bc88434d50241058.xml#id-f6d24f71296247c9bc88434d50241058"/>
@@ -237,18 +189,6 @@
           y="29"
           width="169"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-a57bd5766d4a453190a4f3f0d4609a75">
-        <bounds
-            x="24"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-53cffdc9860c458f949a82d033fb563e.xml#id-53cffdc9860c458f949a82d033fb563e"/>
@@ -271,18 +211,6 @@
           y="29"
           width="133"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-c777276e6dd84cb19d974945ceb0c3f8">
-        <bounds
-            x="12"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-941199445ccd45b8a63a99f0bb25da1b.xml#id-941199445ccd45b8a63a99f0bb25da1b"/>
@@ -305,18 +233,6 @@
           y="29"
           width="145"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-3fafe88eb0964fd3acca0e857c63499b">
-        <bounds
-            x="24"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-c4e411865c66484194d3d2dc17e39230.xml#id-c4e411865c66484194d3d2dc17e39230"/>
@@ -339,18 +255,6 @@
           y="29"
           width="145"
           height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-0e26f8def5c84aa2bfc9001724f54bc8">
-        <bounds
-            x="12"
-            y="60"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-11ae97596df84de8a476039ac5be7e42.xml#id-11ae97596df84de8a476039ac5be7e42"/>

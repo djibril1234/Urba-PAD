@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer les recrutements"
+    name="Recrutements"
     id="id-943360aae18e492ca0e03841d26a564d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

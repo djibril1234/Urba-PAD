@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer la trésorerie"
+    name="Gestion de la trésorerie"
     id="id-74acc608daf543c581a6ef21526d1cbb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -49,15 +49,15 @@
           height="135"/>
       <children
           xsi:type="archimate:DiagramModelReference"
-          id="id-a61e744099a24febb51c836cae6c66f3">
+          id="id-1f082ebf98f94fe1ad6cf2615fd3be08">
         <bounds
-            x="17"
-            y="60"
-            width="109"
+            x="12"
+            y="72"
+            width="120"
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
+            href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -74,15 +74,15 @@
           height="140"/>
       <children
           xsi:type="archimate:DiagramModelReference"
-          id="id-420e657aedb24ae3a559ba6c0625a116">
+          id="id-53f0bfd2ab1647d582f172229a5f2e8b">
         <bounds
-            x="24"
+            x="12"
             y="72"
-            width="109"
+            width="120"
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
+            href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"

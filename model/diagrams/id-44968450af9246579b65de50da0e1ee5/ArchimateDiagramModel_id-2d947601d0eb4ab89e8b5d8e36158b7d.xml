@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer les exonérations"
+    name="Exonérations"
     id="id-2d947601d0eb4ab89e8b5d8e36158b7d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

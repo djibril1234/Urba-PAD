@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer les contrats et marchés"
+    name="Marchés et Contrats"
     id="id-ddeac1079ba542799d633c7f32ef3b23">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -153,18 +153,6 @@
           y="30"
           width="145"
           height="121"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-aa941bdb7d02476c9336cdb7b2f69e6f">
-        <bounds
-            x="12"
-            y="48"
-            width="109"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-766f81b7bd93416586a176a6b83e5483.xml#id-766f81b7bd93416586a176a6b83e5483"/>
