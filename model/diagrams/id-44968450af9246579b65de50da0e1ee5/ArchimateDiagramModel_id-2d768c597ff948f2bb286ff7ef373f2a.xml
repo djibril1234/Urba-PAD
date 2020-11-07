@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer les ristournes"
+    name="Ristournes"
     id="id-2d768c597ff948f2bb286ff7ef373f2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
