@@ -97,9 +97,9 @@
           href="CompositionRelationship_id-62e913f1911b4bb5ae1fa0fe67d22c27.xml#id-62e913f1911b4bb5ae1fa0fe67d22c27"/>
     </sourceConnections>
     <bounds
-        x="36"
+        x="48"
         y="156"
-        width="1909"
+        width="1765"
         height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -115,15 +115,15 @@
             href="TriggeringRelationship_id-f255be65a1924cbc9053700e5991421e.xml#id-f255be65a1924cbc9053700e5991421e"/>
       </sourceConnections>
       <bounds
-          x="28"
+          x="36"
           y="46"
-          width="168"
+          width="133"
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-8d74ae8ba4664820aa33b5ede7298c44">
         <bounds
-            x="24"
+            x="4"
             y="84"
             width="120"
             height="55"/>
@@ -149,9 +149,9 @@
             href="TriggeringRelationship_id-048a0249ba394290bc7f24090e380028.xml#id-048a0249ba394290bc7f24090e380028"/>
       </sourceConnections>
       <bounds
-          x="232"
+          x="204"
           y="46"
-          width="157"
+          width="145"
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelReference"
@@ -183,7 +183,7 @@
             href="TriggeringRelationship_id-1f453b34843c46fa85747606c4451c76.xml#id-1f453b34843c46fa85747606c4451c76"/>
       </sourceConnections>
       <bounds
-          x="412"
+          x="384"
           y="46"
           width="133"
           height="169"/>
@@ -217,15 +217,15 @@
             href="TriggeringRelationship_id-f6385fcf333f454abce3670d15131b50.xml#id-f6385fcf333f454abce3670d15131b50"/>
       </sourceConnections>
       <bounds
-          x="580"
+          x="552"
           y="46"
-          width="157"
+          width="145"
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-b6a14754d94643c49db889332c0c171a">
         <bounds
-            x="24"
+            x="16"
             y="84"
             width="109"
             height="55"/>
@@ -251,7 +251,7 @@
             href="TriggeringRelationship_id-4911347e826a48729f1282196164956e.xml#id-4911347e826a48729f1282196164956e"/>
       </sourceConnections>
       <bounds
-          x="784"
+          x="732"
           y="46"
           width="133"
           height="169"/>
@@ -285,7 +285,7 @@
             href="TriggeringRelationship_id-fe4ebe7c882e4a39b3817a82b2aac849.xml#id-fe4ebe7c882e4a39b3817a82b2aac849"/>
       </sourceConnections>
       <bounds
-          x="952"
+          x="900"
           y="46"
           width="133"
           height="169"/>
@@ -310,15 +310,15 @@
         id="id-33d8b013afa4493aa2361c2e2ff1a5ee"
         targetConnections="id-a12e96a65df647199cda567ac05f8b15 id-6b4d6d3f42c4420abde21ef0469b2e0b">
       <bounds
-          x="1720"
+          x="1620"
           y="46"
-          width="157"
+          width="133"
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-443cd4d19b4e4899a6bd36d431ceed54">
         <bounds
-            x="24"
+            x="12"
             y="84"
             width="109"
             height="61"/>
@@ -344,15 +344,15 @@
             href="TriggeringRelationship_id-f1baf0fdbf6f4b5cad06fa770373e293.xml#id-f1baf0fdbf6f4b5cad06fa770373e293"/>
       </sourceConnections>
       <bounds
-          x="1516"
+          x="1452"
           y="46"
-          width="157"
+          width="133"
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-0d54d11766a348bbb3739c74c536e28b">
         <bounds
-            x="24"
+            x="12"
             y="84"
             width="109"
             height="55"/>
@@ -378,15 +378,15 @@
             href="TriggeringRelationship_id-40b90557e3c34e5d938dc60da8602413.xml#id-40b90557e3c34e5d938dc60da8602413"/>
       </sourceConnections>
       <bounds
-          x="1120"
+          x="1068"
           y="46"
-          width="157"
+          width="133"
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-5bd77cf0289948ce93278493906cebf8">
         <bounds
-            x="24"
+            x="12"
             y="84"
             width="108"
             height="55"/>
@@ -412,9 +412,9 @@
             href="TriggeringRelationship_id-faee875b03a345f7922a5879140ac5d8.xml#id-faee875b03a345f7922a5879140ac5d8"/>
       </sourceConnections>
       <bounds
-          x="1312"
+          x="1260"
           y="46"
-          width="157"
+          width="145"
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelReference"
@@ -443,7 +443,7 @@
       textAlignment="1"
       content="CARTOGRAPHIE PROCESSUS METIER - GERER L'ADMINISTRATION DU PERSONNEL&#xD;&#xA;">
     <bounds
-        x="156"
+        x="456"
         y="48"
         width="1021"
         height="49"/>

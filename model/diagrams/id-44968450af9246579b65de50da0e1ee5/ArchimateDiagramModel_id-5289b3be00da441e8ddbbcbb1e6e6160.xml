@@ -7,16 +7,16 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a186a645f404d41aab6b65f3c3cd925">
     <bounds
-        x="208"
-        y="118"
-        width="633"
-        height="339"/>
+        x="432"
+        y="192"
+        width="253"
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-4a8bf8eb513f43f18e527e57a2d5288e">
       <bounds
-          x="264"
-          y="132"
+          x="60"
+          y="60"
           width="120"
           height="55"/>
       <referencedModel
@@ -34,8 +34,8 @@
       textAlignment="1"
       content="CARTOGRAPHIE PROCESSUS METIER - GERER LE RAPPROCHEMENT BANCAIRE&#xD;&#xA;">
     <bounds
-        x="120"
-        y="24"
+        x="132"
+        y="84"
         width="911"
         height="49"/>
   </children>

@@ -34,7 +34,7 @@
     </sourceConnections>
     <bounds
         x="372"
-        y="432"
+        y="300"
         width="541"
         height="355"/>
     <children
@@ -68,7 +68,7 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="468"
+        y="336"
         width="120"
         height="103"/>
     <archimateElement
@@ -81,7 +81,7 @@
       targetConnections="id-980a79bf7dd1479282972f5b0fa59f7c">
     <bounds
         x="48"
-        y="615"
+        y="483"
         width="120"
         height="118"/>
     <archimateElement
@@ -109,7 +109,7 @@
     </sourceConnections>
     <bounds
         x="1212"
-        y="438"
+        y="306"
         width="157"
         height="271"/>
     <archimateElement
@@ -131,7 +131,7 @@
     </sourceConnections>
     <bounds
         x="552"
-        y="240"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -152,7 +152,7 @@
     </sourceConnections>
     <bounds
         x="996"
-        y="324"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -173,7 +173,7 @@
     </sourceConnections>
     <bounds
         x="204"
-        y="732"
+        y="600"
         width="120"
         height="55"/>
     <archimateElement
@@ -194,7 +194,7 @@
     </sourceConnections>
     <bounds
         x="204"
-        y="414"
+        y="282"
         width="120"
         height="55"/>
     <archimateElement
@@ -215,7 +215,7 @@
     </sourceConnections>
     <bounds
         x="433"
-        y="324"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -236,7 +236,7 @@
     </sourceConnections>
     <bounds
         x="684"
-        y="324"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -257,7 +257,7 @@
     </sourceConnections>
     <bounds
         x="1008"
-        y="510"
+        y="378"
         width="120"
         height="55"/>
     <archimateElement
@@ -278,7 +278,7 @@
     </sourceConnections>
     <bounds
         x="1032"
-        y="684"
+        y="552"
         width="120"
         height="55"/>
     <archimateElement
@@ -292,8 +292,8 @@
       textAlignment="1"
       content="CARTOGRAPHIE APPLICATIVE - POINT DE VUE ANAEL&#xD;&#xA;">
     <bounds
-        x="288"
-        y="36"
+        x="323"
+        y="24"
         width="757"
         height="49"/>
   </children>

@@ -8,7 +8,7 @@
       id="id-a82ece445c4b4002b4e08a3311da680a"
       targetConnections="id-4412b415bcf548469d381639e73524b8 id-aa02ad4f951c4a5793fe6979ec1d73bb">
     <bounds
-        x="144"
+        x="396"
         y="312"
         width="430"
         height="229"/>
@@ -42,8 +42,8 @@
           href="FlowRelationship_id-033c760e013942b3a0404bc6a0dd7d62.xml#id-033c760e013942b3a0404bc6a0dd7d62"/>
     </sourceConnections>
     <bounds
-        x="792"
-        y="328"
+        x="996"
+        y="294"
         width="157"
         height="105"/>
     <archimateElement
@@ -64,8 +64,8 @@
           href="FlowRelationship_id-6b2213853d8b47e4839855d26ca0986d.xml#id-6b2213853d8b47e4839855d26ca0986d"/>
     </sourceConnections>
     <bounds
-        x="456"
-        y="168"
+        x="96"
+        y="324"
         width="193"
         height="85"/>
     <archimateElement
@@ -85,8 +85,8 @@
           href="AssociationRelationship_id-0a9c1b06a34e4f10be98b0db680efedc.xml#id-0a9c1b06a34e4f10be98b0db680efedc"/>
     </sourceConnections>
     <bounds
-        x="299"
-        y="240"
+        x="156"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
@@ -106,7 +106,7 @@
           href="AssociationRelationship_id-f40b311704ab496f9d056c0cbd10d866.xml#id-f40b311704ab496f9d056c0cbd10d866"/>
     </sourceConnections>
     <bounds
-        x="636"
+        x="864"
         y="432"
         width="120"
         height="55"/>
@@ -121,8 +121,8 @@
       textAlignment="1"
       content="CARTOGRAPHIE APPLICATIVE - POINT DE VUE SAGE XRT&#xD;&#xA;">
     <bounds
-        x="204"
-        y="36"
+        x="264"
+        y="168"
         width="757"
         height="49"/>
   </children>

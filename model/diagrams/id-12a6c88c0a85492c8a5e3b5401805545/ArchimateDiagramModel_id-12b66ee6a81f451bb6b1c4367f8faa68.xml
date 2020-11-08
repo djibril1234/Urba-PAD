@@ -19,8 +19,8 @@
           href="FlowRelationship_id-dedfc9b7499a47f5a8956e0798a6a7c4.xml#id-dedfc9b7499a47f5a8956e0798a6a7c4"/>
     </sourceConnections>
     <bounds
-        x="648"
-        y="312"
+        x="456"
+        y="300"
         width="517"
         height="265"/>
     <children
@@ -59,7 +59,7 @@
           href="FlowRelationship_id-319bebcf01974319bdf7dbcc63bdc918.xml#id-319bebcf01974319bdf7dbcc63bdc918"/>
     </sourceConnections>
     <bounds
-        x="132"
+        x="24"
         y="324"
         width="193"
         height="97"/>
@@ -81,8 +81,8 @@
           href="FlowRelationship_id-ae90d19cde9d457fb8d1dbfd31e73a77.xml#id-ae90d19cde9d457fb8d1dbfd31e73a77"/>
     </sourceConnections>
     <bounds
-        x="660"
-        y="156"
+        x="1068"
+        y="300"
         width="157"
         height="97"/>
     <archimateElement
@@ -102,7 +102,7 @@
           href="AssociationRelationship_id-3d6af5a1c87848808c4f6eec580400c6.xml#id-3d6af5a1c87848808c4f6eec580400c6"/>
     </sourceConnections>
     <bounds
-        x="420"
+        x="240"
         y="270"
         width="120"
         height="55"/>
@@ -123,8 +123,8 @@
           href="AssociationRelationship_id-9d7525fd5def42faadbe91144d889d21.xml#id-9d7525fd5def42faadbe91144d889d21"/>
     </sourceConnections>
     <bounds
-        x="876"
-        y="228"
+        x="1032"
+        y="456"
         width="120"
         height="55"/>
     <archimateElement
@@ -144,7 +144,7 @@
           href="AssociationRelationship_id-6ddf7be60e0d47daa7c2c2d316b44afe.xml#id-6ddf7be60e0d47daa7c2c2d316b44afe"/>
     </sourceConnections>
     <bounds
-        x="264"
+        x="145"
         y="480"
         width="120"
         height="55"/>
@@ -165,7 +165,7 @@
           href="AssociationRelationship_id-67cad7c5c39c424f84aead4be76b5d15.xml#id-67cad7c5c39c424f84aead4be76b5d15"/>
     </sourceConnections>
     <bounds
-        x="456"
+        x="300"
         y="480"
         width="120"
         height="55"/>
@@ -180,8 +180,8 @@
       textAlignment="1"
       content="CARTOGRAPHIE APPLICATIVE - POINT DE VUE SAGE X3&#xD;&#xA;">
     <bounds
-        x="264"
-        y="48"
+        x="312"
+        y="156"
         width="757"
         height="49"/>
   </children>

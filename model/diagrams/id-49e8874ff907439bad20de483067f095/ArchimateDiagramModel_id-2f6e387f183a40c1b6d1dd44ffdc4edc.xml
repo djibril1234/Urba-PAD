@@ -102,4 +102,16 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-31cacbfb770a42979f242a3aeabdf865.xml#id-31cacbfb770a42979f242a3aeabdf865"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2299c9745c6e46ea8bb6a646cca0db10"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE ANAEL&#xD;&#xA;">
+    <bounds
+        x="144"
+        y="24"
+        width="817"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>

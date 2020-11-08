@@ -7,16 +7,16 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-984e24f336934decaf8963dfb4d8aa2a">
     <bounds
-        x="192"
-        y="168"
-        width="957"
-        height="327"/>
+        x="492"
+        y="180"
+        width="301"
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-7d4e88595761484d9f762add97d65925">
       <bounds
-          x="432"
-          y="96"
+          x="84"
+          y="48"
           width="120"
           height="55"/>
       <referencedModel
