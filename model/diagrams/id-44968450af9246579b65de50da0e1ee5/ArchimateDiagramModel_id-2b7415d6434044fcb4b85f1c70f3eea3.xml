@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Assurer le respect de la règlementation sociale"
-    id="id-2b7415d6434044fcb4b85f1c70f3eea3"/>
+    id="id-2b7415d6434044fcb4b85f1c70f3eea3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2ca599590141479bbcd82b42692b935f">
+    <bounds
+        x="280"
+        y="85"
+        width="633"
+        height="180"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-eba96ac57f0d4fde906efd0b0cb336c2.xml#id-eba96ac57f0d4fde906efd0b0cb336c2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

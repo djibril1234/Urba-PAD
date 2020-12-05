@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Quilk Application View"
+    name="Quilk View Application View"
     id="id-980da3b6945049d280ce01c6b648079b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
