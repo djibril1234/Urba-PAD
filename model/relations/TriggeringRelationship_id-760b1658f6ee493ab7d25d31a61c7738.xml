@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sert"
+    id="id-760b1658f6ee493ab7d25d31a61c7738">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-173b24522c104a06b457563a58cf1491.xml#id-173b24522c104a06b457563a58cf1491"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f2217a19d2ef4eddbd814a9a69c73f15.xml#id-f2217a19d2ef4eddbd814a9a69c73f15"/>
+</archimate:TriggeringRelationship>

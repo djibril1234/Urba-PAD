@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gérer le rapprochement bancaire"
+    id="id-5289b3be00da441e8ddbbcbb1e6e6160">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6a186a645f404d41aab6b65f3c3cd925">
+    <bounds
+        x="432"
+        y="192"
+        width="253"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-4a8bf8eb513f43f18e527e57a2d5288e">
+      <bounds
+          x="60"
+          y="60"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c243f43a4e114e2ba300d7df937db71b.xml#id-c243f43a4e114e2ba300d7df937db71b"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-9b276f4da79f4e389a98a193773b50c6.xml#id-9b276f4da79f4e389a98a193773b50c6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5159448376da4f2b87625c876873c2fa"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LE RAPPROCHEMENT BANCAIRE&#xD;&#xA;">
+    <bounds
+        x="132"
+        y="84"
+        width="911"
+        height="49"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,73 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fortigate Technology View"
+    id="id-5ee02800a2364a10b75f8e344386cdf6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3599adc91cba42e5a775e2d9435ceefc">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-98b1a4b4fc29496885acfd9d1c5c399e"
+        source="id-3599adc91cba42e5a775e2d9435ceefc"
+        target="id-faebce80f7db4ca8b47065eee6fa75e4">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-b6a793f4d731463e8c1ee7e51712f4c7.xml#id-b6a793f4d731463e8c1ee7e51712f4c7"/>
+    </sourceConnections>
+    <bounds
+        x="432"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-dd2a6f191e834a80b867d3a36c880023.xml#id-dd2a6f191e834a80b867d3a36c880023"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f64a7b50115f41b191d649ccfb1acc27">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-195c2628f26944ab8075f264a1843366"
+        source="id-f64a7b50115f41b191d649ccfb1acc27"
+        target="id-faebce80f7db4ca8b47065eee6fa75e4">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-eadcbc12182b489cacf8da357be38dfd.xml#id-eadcbc12182b489cacf8da357be38dfd"/>
+    </sourceConnections>
+    <bounds
+        x="672"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-173b24522c104a06b457563a58cf1491.xml#id-173b24522c104a06b457563a58cf1491"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-faebce80f7db4ca8b47065eee6fa75e4"
+      targetConnections="id-98b1a4b4fc29496885acfd9d1c5c399e id-195c2628f26944ab8075f264a1843366">
+    <bounds
+        x="444"
+        y="144"
+        width="334"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-26193f2fe9b14b78ba3bca25fafec74a.xml#id-26193f2fe9b14b78ba3bca25fafec74a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1b91e366ff554849813f57928fd71b20"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE FORTIGATE&#xD;&#xA;">
+    <bounds
+        x="156"
+        y="36"
+        width="817"
+        height="49"/>
+  </children>
+</archimate:ArchimateDiagramModel>

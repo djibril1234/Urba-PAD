@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implemente"
+    id="id-a28192868c6246efa45246264c618693">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-627565be9f99404ebe4af7b965ad949a.xml#id-627565be9f99404ebe4af7b965ad949a"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-dd2a6f191e834a80b867d3a36c880023.xml#id-dd2a6f191e834a80b867d3a36c880023"/>
+</archimate:RealizationRelationship>

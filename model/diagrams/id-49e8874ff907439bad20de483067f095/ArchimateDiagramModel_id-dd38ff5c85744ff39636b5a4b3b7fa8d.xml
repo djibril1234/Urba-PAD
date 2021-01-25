@@ -1,0 +1,73 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Glpi Technology View"
+    id="id-dd38ff5c85744ff39636b5a4b3b7fa8d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f82311e8eda144a4bd5261e6eb0a7f28"
+      targetConnections="id-a115896635c7495e8afb6b0b3978f7c2 id-21b2d06177cb49d9af0ced72a255f2a7">
+    <bounds
+        x="408"
+        y="96"
+        width="442"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-f2217a19d2ef4eddbd814a9a69c73f15.xml#id-f2217a19d2ef4eddbd814a9a69c73f15"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-35bef64c66784f5aaba07ad298abd9fa">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a115896635c7495e8afb6b0b3978f7c2"
+        source="id-35bef64c66784f5aaba07ad298abd9fa"
+        target="id-f82311e8eda144a4bd5261e6eb0a7f28">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-77fff3803b464cc887d0e3e99414db91.xml#id-77fff3803b464cc887d0e3e99414db91"/>
+    </sourceConnections>
+    <bounds
+        x="456"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-dd2a6f191e834a80b867d3a36c880023.xml#id-dd2a6f191e834a80b867d3a36c880023"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-37c308c91b764d4fbb216f5987e1f4f5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-21b2d06177cb49d9af0ced72a255f2a7"
+        source="id-37c308c91b764d4fbb216f5987e1f4f5"
+        target="id-f82311e8eda144a4bd5261e6eb0a7f28">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-760b1658f6ee493ab7d25d31a61c7738.xml#id-760b1658f6ee493ab7d25d31a61c7738"/>
+    </sourceConnections>
+    <bounds
+        x="696"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-173b24522c104a06b457563a58cf1491.xml#id-173b24522c104a06b457563a58cf1491"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-dffaf566c7e74e1bbcc95f29719fde2c"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE GLPI&#xD;&#xA;">
+    <bounds
+        x="264"
+        y="24"
+        width="817"
+        height="49"/>
+  </children>
+</archimate:ArchimateDiagramModel>

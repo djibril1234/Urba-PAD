@@ -1,0 +1,73 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quilk Technology View"
+    id="id-370f6dff5eb34263b128ef1c10ef8d26">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-86c956c0f01e46e28e97822ccbaca449"
+      targetConnections="id-8027489da4c642b6b711cf56cfaec8db id-62cd64d9e4324f62b6808bf70714f11a">
+    <bounds
+        x="348"
+        y="144"
+        width="359"
+        height="111"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-5e68d22b697e411387d698ff00bdbae8.xml#id-5e68d22b697e411387d698ff00bdbae8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9086f313e1f947e1a6644a2a9256c28b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-62cd64d9e4324f62b6808bf70714f11a"
+        source="id-9086f313e1f947e1a6644a2a9256c28b"
+        target="id-86c956c0f01e46e28e97822ccbaca449">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-0a34814ac2114337aa4d6b21efd8f3e1.xml#id-0a34814ac2114337aa4d6b21efd8f3e1"/>
+    </sourceConnections>
+    <bounds
+        x="577"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-173b24522c104a06b457563a58cf1491.xml#id-173b24522c104a06b457563a58cf1491"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4e208e9f519e448ba7432f62959ad4f5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8027489da4c642b6b711cf56cfaec8db"
+        source="id-4e208e9f519e448ba7432f62959ad4f5"
+        target="id-86c956c0f01e46e28e97822ccbaca449">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-11c6507650df4f44944c2837f610f9ff.xml#id-11c6507650df4f44944c2837f610f9ff"/>
+    </sourceConnections>
+    <bounds
+        x="360"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-dd2a6f191e834a80b867d3a36c880023.xml#id-dd2a6f191e834a80b867d3a36c880023"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-02e6a6efbc97405ca9de2c56e371084a"
+      font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE TECHNIQUE - POINT DE VUE QUILK&#xD;&#xA;">
+    <bounds
+        x="168"
+        y="60"
+        width="817"
+        height="49"/>
+  </children>
+</archimate:ArchimateDiagramModel>

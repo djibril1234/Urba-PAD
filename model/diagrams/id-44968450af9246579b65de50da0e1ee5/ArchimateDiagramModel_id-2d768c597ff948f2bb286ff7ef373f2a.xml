@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gérer les ristournes"
+    id="id-2d768c597ff948f2bb286ff7ef373f2a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d5894cb350e84b668a3c0f7ea4a8fe16">
+    <bounds
+        x="528"
+        y="144"
+        width="205"
+        height="133"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-c225d64ec30a4afd88ab71f50d85a2ad">
+      <bounds
+          x="48"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-0facaed58ae54509a43c12fb01f837b8.xml#id-0facaed58ae54509a43c12fb01f837b8"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-299cc91c806e465089a9ef47c7cf384f.xml#id-299cc91c806e465089a9ef47c7cf384f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b20d8dca34464959b6bb5eead509d3d5"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-48|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="CARTOGRAPHIE PROCESSUS METIER - GERER LES RISTOURNES&#xD;&#xA;">
+    <bounds
+        x="240"
+        y="48"
+        width="757"
+        height="49"/>
+  </children>
+</archimate:ArchimateDiagramModel>
