@@ -911,18 +911,16 @@
         width="256"
         height="98"/>
     <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-e7ed21e842e54559a9744cdbdb1a263e"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Communication interne">
+        xsi:type="archimate:DiagramModelReference"
+        id="id-e0fb2c84d44f4b99a65e578f5529e076">
       <bounds
-          x="24"
-          y="48"
-          width="217"
-          height="37"/>
+          x="72"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-ebf2656fce8a46b7aba06a9ac65b76ce.xml#id-ebf2656fce8a46b7aba06a9ac65b76ce"/>
     </children>
   </children>
   <children
@@ -938,18 +936,16 @@
         width="256"
         height="99"/>
     <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-f48ff3d7b71b470abfd1d069f942d062"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#6f0000"
-        fillColor="#ffcece"
-        borderColor="#000000"
-        content="Communication externe">
+        xsi:type="archimate:DiagramModelReference"
+        id="id-5f3595df8c214aa39cf6f677b095f972">
       <bounds
-          x="24"
-          y="48"
-          width="217"
-          height="37"/>
+          x="72"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-ebf2656fce8a46b7aba06a9ac65b76ce.xml#id-ebf2656fce8a46b7aba06a9ac65b76ce"/>
     </children>
   </children>
   <children
