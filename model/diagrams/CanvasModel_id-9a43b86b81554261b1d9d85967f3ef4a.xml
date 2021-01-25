@@ -275,23 +275,22 @@
           y="108"
           width="349"
           height="36"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-8b5e500cb2e04564b30085dbbfec2e3b"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#000000"
-        fillColor="#ffff80"
-        alpha="140"
-        textPosition="1">
-      <bounds
-          x="24"
-          y="24"
-          width="438"
-          height="143"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-8b5e500cb2e04564b30085dbbfec2e3b"
+          font="1|Segoe UI|9.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#ffff80"
+          alpha="140"
+          textPosition="1">
+        <bounds
+            x="168"
+            width="162"
+            height="59"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-be2af991e78f47cfb97f2ecdcfb8ebd2.xml#id-be2af991e78f47cfb97f2ecdcfb8ebd2"/>
+      </children>
     </children>
   </children>
   <children
@@ -1293,7 +1292,7 @@
       font="1|Segoe UI|19.875|1|WINDOWS|1|-53|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Modélisateur : INW PARTNERS&#xD;&#xA;Validateur : PAD&#xD;&#xA;Date de validation : 15/09/2020"
+      content="Modélisateur : INW PARTNERS&#xD;&#xA;Valideur : PAD&#xD;&#xA;Date de validation : 15/09/2020"
       borderColor="#C0C0C0"
       textPosition="1">
     <bounds
