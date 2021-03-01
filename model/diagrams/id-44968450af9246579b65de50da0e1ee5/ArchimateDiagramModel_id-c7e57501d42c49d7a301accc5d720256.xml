@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer la facturation au comptant"
+    name="FACTURATION AU COMPTANT"
     id="id-c7e57501d42c49d7a301accc5d720256">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

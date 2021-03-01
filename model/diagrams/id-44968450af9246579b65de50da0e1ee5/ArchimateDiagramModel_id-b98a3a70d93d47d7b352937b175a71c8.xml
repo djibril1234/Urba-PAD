@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer les contestations de facture"
+    name="CONTESTATIONS DE FACTURE"
     id="id-b98a3a70d93d47d7b352937b175a71c8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
