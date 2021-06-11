@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer les immobilisations"
+    name="GESTION DES IMMOBILISATIONS"
     id="id-762472f8020a4b8b82ced019188a4bbe">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

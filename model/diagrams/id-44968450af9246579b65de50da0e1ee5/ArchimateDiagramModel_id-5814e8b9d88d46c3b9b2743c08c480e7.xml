@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gérer la paie"
+    name="PAIE"
     id="id-5814e8b9d88d46c3b9b2743c08c480e7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
